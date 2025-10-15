@@ -1,0 +1,4 @@
+
+这个文件夹是sample 样本文件。
+index-tts-XXXXX.mp3   是样本文件。
+

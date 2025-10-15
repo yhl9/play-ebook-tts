@@ -1,0 +1,161 @@
+{
+  "themes": {
+    "light": {
+      "name": "浅色主题",
+      "description": "经典的浅色界面，适合日间使用",
+      "colors": {
+        "primary": "#0078d4",
+        "background": "#ffffff",
+        "text": "#000000",
+        "tab_text": "#0078d4",
+        "border": "#cccccc",
+        "hover": "#e0e0e0"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "dark": {
+      "name": "深色主题",
+      "description": "护眼的深色界面，适合夜间使用",
+      "colors": {
+        "primary": "#0078d4",
+        "background": "#2b2b2b",
+        "text": "#ffffff",
+        "tab_text": "#ffffff",
+        "border": "#555555",
+        "hover": "#4c4c4c"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "blue": {
+      "name": "蓝色主题",
+      "description": "清新的蓝色界面，商务风格",
+      "colors": {
+        "primary": "#4a90e2",
+        "background": "#f0f8ff",
+        "text": "#000080",
+        "tab_text": "#000080",
+        "border": "#4a90e2",
+        "hover": "#b8d4f0"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "green": {
+      "name": "绿色主题",
+      "description": "自然的绿色界面，清新风格",
+      "colors": {
+        "primary": "#32cd32",
+        "background": "#f0fff0",
+        "text": "#006400",
+        "tab_text": "#006400",
+        "border": "#32cd32",
+        "hover": "#b8e6b8"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "purple": {
+      "name": "紫色主题",
+      "description": "优雅的紫色界面，创意风格",
+      "colors": {
+        "primary": "#9370db",
+        "background": "#f8f0ff",
+        "text": "#4b0082",
+        "tab_text": "#4b0082",
+        "border": "#9370db",
+        "hover": "#d4b8ff"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "red": {
+      "name": "红色主题",
+      "description": "热情的红色界面，活力风格",
+      "colors": {
+        "primary": "#dc3545",
+        "background": "#fff5f5",
+        "text": "#8b0000",
+        "tab_text": "#8b0000",
+        "border": "#dc3545",
+        "hover": "#f8d7da"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "gray": {
+      "name": "灰色主题",
+      "description": "专业的灰色界面，商务风格",
+      "colors": {
+        "primary": "#6c757d",
+        "background": "#f8f9fa",
+        "text": "#495057",
+        "tab_text": "#495057",
+        "border": "#6c757d",
+        "hover": "#e9ecef"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    },
+    "auto": {
+      "name": "自动主题",
+      "description": "跟随系统主题设置",
+      "colors": {
+        "primary": "#0078d4",
+        "background": "auto",
+        "text": "auto",
+        "tab_text": "auto",
+        "border": "auto",
+        "hover": "auto"
+      },
+      "fonts": {
+        "size": "medium",
+        "weight": "normal"
+      }
+    }
+  },
+  "font_sizes": {
+    "small": {
+      "name": "小",
+      "value": "10px",
+      "description": "适合高分辨率屏幕"
+    },
+    "medium": {
+      "name": "中",
+      "value": "12px",
+      "description": "标准字体大小"
+    },
+    "large": {
+      "name": "大",
+      "value": "14px",
+      "description": "适合阅读和操作"
+    }
+  },
+  "font_weights": {
+    "normal": {
+      "name": "正常",
+      "value": "normal",
+      "description": "标准字体粗细"
+    },
+    "bold": {
+      "name": "粗体",
+      "value": "bold",
+      "description": "加粗字体"
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "config_version": "2.0.0",
+  "last_updated": "2025-09-22T23:19:32.381605",
+  "engines": {
+    "piper_tts": {
+      "info": {
+        "name": "Piper TTS",
+        "version": "1.0.0",
+        "description": "高质量本地TTS引擎",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN",
+          "en-US"
+        ],
+        "supported_formats": [
+          "wav",
+          "mp3"
+        ],
+        "is_online": false,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "default",
+        "rate": 1.2,
+        "pitch": 5.0,
+        "volume": 0.8,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {}
+      },
+      "status": {
+        "status": "unavailable",
+        "last_check": "",
+        "error_message": "",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-22T23:11:49.523813"
+    },
+    "emotivoice": {
+      "info": {
+        "name": "EmotiVoice",
+        "version": "1.0.0",
+        "description": "支持情感控制的在线TTS服务",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN"
+        ],
+        "supported_formats": [
+          "wav",
+          "mp3"
+        ],
+        "is_online": true,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "default",
+        "rate": 1.0,
+        "pitch": 0.0,
+        "volume": 1.0,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {}
+      },
+      "status": {
+        "status": "unavailable",
+        "last_check": "",
+        "error_message": "",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-22T23:11:49.523813"
+    },
+    "edge_tts": {
+      "info": {
+        "name": "Edge TTS",
+        "version": "1.0.0",
+        "description": "微软在线TTS服务",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN",
+          "en-US",
+          "ja-JP"
+        ],
+        "supported_formats": [
+          "wav"
+        ],
+        "is_online": true,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "default",
+        "rate": 1.0,
+        "pitch": 0.0,
+        "volume": 1.0,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {}
+      },
+      "status": {
+        "status": "unavailable",
+        "last_check": "",
+        "error_message": "",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-22T23:11:49.523813"
+    },
+    "pyttsx3": {
+      "info": {
+        "name": "pyttsx3",
+        "version": "1.0.0",
+        "description": "跨平台系统TTS引擎",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN",
+          "en-US"
+        ],
+        "supported_formats": [
+          "wav"
+        ],
+        "is_online": false,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "default",
+        "rate": 1.0,
+        "pitch": 0.0,
+        "volume": 1.0,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {}
+      },
+      "status": {
+        "status": "unavailable",
+        "last_check": "",
+        "error_message": "",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-22T23:11:49.523813"
+    },
+    "index_tts_api_15": {
+      "info": {
+        "name": "IndexTTS API 1.5",
+        "version": "1.0.0",
+        "description": "基于参考音频的语音克隆服务",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN"
+        ],
+        "supported_formats": [
+          "wav",
+          "mp3"
+        ],
+        "is_online": true,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "default",
+        "rate": 1.0,
+        "pitch": 0.0,
+        "volume": 1.0,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {}
+      },
+      "status": {
+        "status": "unavailable",
+        "last_check": "",
+        "error_message": "",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-22T23:11:49.523813"
+    }
+  }
+}

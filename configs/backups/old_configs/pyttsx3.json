@@ -1,0 +1,14 @@
+{
+  "engine": "pyttsx3",
+  "voice_name": "晓晓",
+  "rate": 1.0,
+  "pitch": -6,
+  "volume": 1.0,
+  "language": "zh-CN",
+  "output_format": "wav",
+  "extra_params": {
+    "voice_name": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Speech\\Voices\\Tokens\\TTS_MS_ZH-CN_HUIHUI_11.0",
+    "rate": 168.75,
+    "volume": 1.0
+  }
+}

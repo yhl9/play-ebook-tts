@@ -1,0 +1,4486 @@
+{
+  "metadata": {
+    "version": "7.2.3",
+    "source": "Microsoft Edge TTS",
+    "total_voices": 538,
+    "last_updated": "2025-01-27",
+    "description": "Edge TTS 7.2.3 完整语音列表"
+  },
+  "voices": {
+    "af-ZA-AdriNeural": {
+      "name": "Adri",
+      "language": "af-ZA",
+      "gender": "Female",
+      "personalities": [
+        "Well-Rounded",
+        "Animated",
+        "Bright"
+      ],
+      "description": "af-ZA Female语音 - Well-Rounded, Animated, Bright"
+    },
+    "af-ZA-WillemNeural": {
+      "name": "Willem",
+      "language": "af-ZA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "af-ZA Male语音 - 标准"
+    },
+    "am-ET-AmehaNeural": {
+      "name": "Ameha",
+      "language": "am-ET",
+      "gender": "Male",
+      "personalities": [],
+      "description": "am-ET Male语音 - 标准"
+    },
+    "am-ET-MekdesNeural": {
+      "name": "Mekdes",
+      "language": "am-ET",
+      "gender": "Female",
+      "personalities": [],
+      "description": "am-ET Female语音 - 标准"
+    },
+    "ar-AE-FatimaNeural": {
+      "name": "Fatima",
+      "language": "ar-AE",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ar-AE Female语音 - Crisp, Bright, Clear"
+    },
+    "ar-AE-HamdanNeural": {
+      "name": "Hamdan",
+      "language": "ar-AE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-AE Male语音 - 标准"
+    },
+    "ar-BH-AliNeural": {
+      "name": "Ali",
+      "language": "ar-BH",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-BH Male语音 - 标准"
+    },
+    "ar-BH-LailaNeural": {
+      "name": "Laila",
+      "language": "ar-BH",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-BH Female语音 - 标准"
+    },
+    "ar-DZ-AminaNeural": {
+      "name": "Amina",
+      "language": "ar-DZ",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ar-DZ Female语音 - Crisp, Bright, Clear"
+    },
+    "ar-DZ-IsmaelNeural": {
+      "name": "Ismael",
+      "language": "ar-DZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-DZ Male语音 - 标准"
+    },
+    "ar-EG-SalmaNeural": {
+      "name": "Salma",
+      "language": "ar-EG",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ar-EG Female语音 - Crisp, Bright, Clear"
+    },
+    "ar-EG-ShakirNeural": {
+      "name": "Shakir",
+      "language": "ar-EG",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-EG Male语音 - 标准"
+    },
+    "ar-IQ-BasselNeural": {
+      "name": "Bassel",
+      "language": "ar-IQ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-IQ Male语音 - 标准"
+    },
+    "ar-IQ-RanaNeural": {
+      "name": "Rana",
+      "language": "ar-IQ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-IQ Female语音 - 标准"
+    },
+    "ar-JO-SanaNeural": {
+      "name": "Sana",
+      "language": "ar-JO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-JO Female语音 - 标准"
+    },
+    "ar-JO-TaimNeural": {
+      "name": "Taim",
+      "language": "ar-JO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-JO Male语音 - 标准"
+    },
+    "ar-KW-FahedNeural": {
+      "name": "Fahed",
+      "language": "ar-KW",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-KW Male语音 - 标准"
+    },
+    "ar-KW-NouraNeural": {
+      "name": "Noura",
+      "language": "ar-KW",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ar-KW Female语音 - Crisp, Bright, Clear"
+    },
+    "ar-LB-LaylaNeural": {
+      "name": "Layla",
+      "language": "ar-LB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-LB Female语音 - 标准"
+    },
+    "ar-LB-RamiNeural": {
+      "name": "Rami",
+      "language": "ar-LB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-LB Male语音 - 标准"
+    },
+    "ar-LY-ImanNeural": {
+      "name": "Iman",
+      "language": "ar-LY",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-LY Female语音 - 标准"
+    },
+    "ar-LY-OmarNeural": {
+      "name": "Omar",
+      "language": "ar-LY",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-LY Male语音 - 标准"
+    },
+    "ar-MA-JamalNeural": {
+      "name": "Jamal",
+      "language": "ar-MA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-MA Male语音 - 标准"
+    },
+    "ar-MA-MounaNeural": {
+      "name": "Mouna",
+      "language": "ar-MA",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ar-MA Female语音 - Crisp, Bright, Clear"
+    },
+    "ar-OM-AbdullahNeural": {
+      "name": "Abdullah",
+      "language": "ar-OM",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-OM Male语音 - 标准"
+    },
+    "ar-OM-AyshaNeural": {
+      "name": "Aysha",
+      "language": "ar-OM",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Pleasant"
+      ],
+      "description": "ar-OM Female语音 - Sincere, Pleasant"
+    },
+    "ar-QA-AmalNeural": {
+      "name": "Amal",
+      "language": "ar-QA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-QA Female语音 - 标准"
+    },
+    "ar-QA-MoazNeural": {
+      "name": "Moaz",
+      "language": "ar-QA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-QA Male语音 - 标准"
+    },
+    "ar-SA-HamedNeural": {
+      "name": "Hamed",
+      "language": "ar-SA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-SA Male语音 - 标准"
+    },
+    "ar-SA-ZariyahNeural": {
+      "name": "Zariyah",
+      "language": "ar-SA",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ar-SA Female语音 - Crisp, Bright, Clear"
+    },
+    "ar-SY-AmanyNeural": {
+      "name": "Amany",
+      "language": "ar-SY",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Pleasant"
+      ],
+      "description": "ar-SY Female语音 - Sincere, Pleasant"
+    },
+    "ar-SY-LaithNeural": {
+      "name": "Laith",
+      "language": "ar-SY",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-SY Male语音 - 标准"
+    },
+    "ar-TN-HediNeural": {
+      "name": "Hedi",
+      "language": "ar-TN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-TN Male语音 - 标准"
+    },
+    "ar-TN-ReemNeural": {
+      "name": "Reem",
+      "language": "ar-TN",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Pleasant"
+      ],
+      "description": "ar-TN Female语音 - Sincere, Pleasant"
+    },
+    "ar-YE-MaryamNeural": {
+      "name": "Maryam",
+      "language": "ar-YE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ar-YE Female语音 - 标准"
+    },
+    "ar-YE-SalehNeural": {
+      "name": "Saleh",
+      "language": "ar-YE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ar-YE Male语音 - 标准"
+    },
+    "as-IN-PriyomNeural": {
+      "name": "Priyom",
+      "language": "as-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "as-IN Male语音 - 标准"
+    },
+    "as-IN-YashicaNeural": {
+      "name": "Yashica",
+      "language": "as-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "as-IN Female语音 - 标准"
+    },
+    "az-AZ-BabekNeural": {
+      "name": "Babek",
+      "language": "az-AZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "az-AZ Male语音 - 标准"
+    },
+    "az-AZ-BanuNeural": {
+      "name": "Banu",
+      "language": "az-AZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "az-AZ Female语音 - 标准"
+    },
+    "bg-BG-BorislavNeural": {
+      "name": "Borislav",
+      "language": "bg-BG",
+      "gender": "Male",
+      "personalities": [
+        "Light-Hearted",
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "bg-BG Male语音 - Light-Hearted, Whimsical, Friendly"
+    },
+    "bg-BG-KalinaNeural": {
+      "name": "Kalina",
+      "language": "bg-BG",
+      "gender": "Female",
+      "personalities": [],
+      "description": "bg-BG Female语音 - 标准"
+    },
+    "bn-BD-NabanitaNeural": {
+      "name": "Nabanita",
+      "language": "bn-BD",
+      "gender": "Female",
+      "personalities": [],
+      "description": "bn-BD Female语音 - 标准"
+    },
+    "bn-BD-PradeepNeural": {
+      "name": "Pradeep",
+      "language": "bn-BD",
+      "gender": "Male",
+      "personalities": [],
+      "description": "bn-BD Male语音 - 标准"
+    },
+    "bn-IN-BashkarNeural": {
+      "name": "Bashkar",
+      "language": "bn-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "bn-IN Male语音 - 标准"
+    },
+    "bn-IN-TanishaaNeural": {
+      "name": "Tanishaa",
+      "language": "bn-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "bn-IN Female语音 - 标准"
+    },
+    "bs-BA-GoranNeural": {
+      "name": "Goran",
+      "language": "bs-BA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "bs-BA Male语音 - 标准"
+    },
+    "bs-BA-VesnaNeural": {
+      "name": "Vesna",
+      "language": "bs-BA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "bs-BA Female语音 - 标准"
+    },
+    "ca-ES-AlbaNeural": {
+      "name": "Alba",
+      "language": "ca-ES",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ca-ES Female语音 - Crisp, Bright, Clear"
+    },
+    "ca-ES-EnricNeural": {
+      "name": "Enric",
+      "language": "ca-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ca-ES Male语音 - 标准"
+    },
+    "ca-ES-JoanaNeural": {
+      "name": "Joana",
+      "language": "ca-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ca-ES Female语音 - 标准"
+    },
+    "cs-CZ-AntoninNeural": {
+      "name": "Antonin",
+      "language": "cs-CZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "cs-CZ Male语音 - 标准"
+    },
+    "cs-CZ-VlastaNeural": {
+      "name": "Vlasta",
+      "language": "cs-CZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "cs-CZ Female语音 - 标准"
+    },
+    "cy-GB-AledNeural": {
+      "name": "Aled",
+      "language": "cy-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "cy-GB Male语音 - 标准"
+    },
+    "cy-GB-NiaNeural": {
+      "name": "Nia",
+      "language": "cy-GB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "cy-GB Female语音 - 标准"
+    },
+    "da-DK-ChristelNeural": {
+      "name": "Christel",
+      "language": "da-DK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "da-DK Female语音 - 标准"
+    },
+    "da-DK-JeppeNeural": {
+      "name": "Jeppe",
+      "language": "da-DK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "da-DK Male语音 - 标准"
+    },
+    "de-AT-IngridNeural": {
+      "name": "Ingrid",
+      "language": "de-AT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-AT Female语音 - 标准"
+    },
+    "de-AT-JonasNeural": {
+      "name": "Jonas",
+      "language": "de-AT",
+      "gender": "Male",
+      "personalities": [
+        "Light-Hearted",
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "de-AT Male语音 - Light-Hearted, Whimsical, Friendly"
+    },
+    "de-CH-JanNeural": {
+      "name": "Jan",
+      "language": "de-CH",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-CH Male语音 - 标准"
+    },
+    "de-CH-LeniNeural": {
+      "name": "Leni",
+      "language": "de-CH",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-CH Female语音 - 标准"
+    },
+    "de-DE-AmalaNeural": {
+      "name": "Amala",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [
+        "Well-Rounded",
+        "Animated",
+        "Bright"
+      ],
+      "description": "de-DE Female语音 - Well-Rounded, Animated, Bright"
+    },
+    "de-DE-BerndNeural": {
+      "name": "Bernd",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-DE Male语音 - 标准"
+    },
+    "de-DE-ChristophNeural": {
+      "name": "Christoph",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-DE Male语音 - 标准"
+    },
+    "de-DE-ConradNeural": {
+      "name": "Conrad",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [
+        "Engaging",
+        "Friendly"
+      ],
+      "description": "de-DE Male语音 - Engaging, Friendly"
+    },
+    "de-DE-ElkeNeural": {
+      "name": "Elke",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-DE Female语音 - 标准"
+    },
+    "de-DE-FlorianMultilingualNeural": {
+      "name": "FlorianMultilingual",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [
+        "Cheerful",
+        "Warm"
+      ],
+      "description": "de-DE Male语音 - Cheerful, Warm"
+    },
+    "de-DE-GiselaNeural": {
+      "name": "Gisela",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Cheerful",
+        "Bright"
+      ],
+      "description": "de-DE Female语音 - Crisp, Cheerful, Bright"
+    },
+    "de-DE-KasperNeural": {
+      "name": "Kasper",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-DE Male语音 - 标准"
+    },
+    "de-DE-KatjaNeural": {
+      "name": "Katja",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [
+        "Calm",
+        "Pleasant"
+      ],
+      "description": "de-DE Female语音 - Calm, Pleasant"
+    },
+    "de-DE-KillianNeural": {
+      "name": "Killian",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-DE Male语音 - 标准"
+    },
+    "de-DE-KlarissaNeural": {
+      "name": "Klarissa",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-DE Female语音 - 标准"
+    },
+    "de-DE-KlausNeural": {
+      "name": "Klaus",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-DE Male语音 - 标准"
+    },
+    "de-DE-LouisaNeural": {
+      "name": "Louisa",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-DE Female语音 - 标准"
+    },
+    "de-DE-MajaNeural": {
+      "name": "Maja",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-DE Female语音 - 标准"
+    },
+    "de-DE-RalfNeural": {
+      "name": "Ralf",
+      "language": "de-DE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "de-DE Male语音 - 标准"
+    },
+    "de-DE-SeraphinaMultilingualNeural": {
+      "name": "SeraphinaMultilingual",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [
+        "Casual",
+        "Casual"
+      ],
+      "description": "de-DE Female语音 - Casual, Casual"
+    },
+    "de-DE-TanjaNeural": {
+      "name": "Tanja",
+      "language": "de-DE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "de-DE Female语音 - 标准"
+    },
+    "el-GR-AthinaNeural": {
+      "name": "Athina",
+      "language": "el-GR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "el-GR Female语音 - 标准"
+    },
+    "el-GR-NestorasNeural": {
+      "name": "Nestoras",
+      "language": "el-GR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "el-GR Male语音 - 标准"
+    },
+    "en-AU-AnnetteNeural": {
+      "name": "Annette",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-AU Female语音 - 标准"
+    },
+    "en-AU-CarlyNeural": {
+      "name": "Carly",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Cheerful",
+        "Bright"
+      ],
+      "description": "en-AU Female语音 - Crisp, Cheerful, Bright"
+    },
+    "en-AU-DarrenNeural": {
+      "name": "Darren",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-AU Male语音 - 标准"
+    },
+    "en-AU-DuncanNeural": {
+      "name": "Duncan",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-AU Male语音 - 标准"
+    },
+    "en-AU-ElsieNeural": {
+      "name": "Elsie",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-AU Female语音 - 标准"
+    },
+    "en-AU-FreyaNeural": {
+      "name": "Freya",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-AU Female语音 - 标准"
+    },
+    "en-AU-JoanneNeural": {
+      "name": "Joanne",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-AU Female语音 - 标准"
+    },
+    "en-AU-KenNeural": {
+      "name": "Ken",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-AU Male语音 - 标准"
+    },
+    "en-AU-KimNeural": {
+      "name": "Kim",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-AU Female语音 - 标准"
+    },
+    "en-AU-NatashaNeural": {
+      "name": "Natasha",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "en-AU Female语音 - Crisp, Bright, Clear"
+    },
+    "en-AU-NeilNeural": {
+      "name": "Neil",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-AU Male语音 - 标准"
+    },
+    "en-AU-TimNeural": {
+      "name": "Tim",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-AU Male语音 - 标准"
+    },
+    "en-AU-TinaNeural": {
+      "name": "Tina",
+      "language": "en-AU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-AU Female语音 - 标准"
+    },
+    "en-AU-WilliamMultilingualNeural": {
+      "name": "WilliamMultilingual",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Cheerful",
+        "Casual",
+        "Friendly",
+        "Pleasant"
+      ],
+      "description": "en-AU Male语音 - Warm, Cheerful, Casual, Friendly, Pleasant"
+    },
+    "en-AU-WilliamNeural": {
+      "name": "William",
+      "language": "en-AU",
+      "gender": "Male",
+      "personalities": [
+        "Engaging",
+        "Strong"
+      ],
+      "description": "en-AU Male语音 - Engaging, Strong"
+    },
+    "en-CA-ClaraNeural": {
+      "name": "Clara",
+      "language": "en-CA",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "en-CA Female语音 - Crisp, Bright, Clear"
+    },
+    "en-CA-LiamNeural": {
+      "name": "Liam",
+      "language": "en-CA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-CA Male语音 - 标准"
+    },
+    "en-GB-AbbiNeural": {
+      "name": "Abbi",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-GB Female语音 - 标准"
+    },
+    "en-GB-AdaMultilingualNeural": {
+      "name": "AdaMultilingual",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Warm",
+        "Gentle",
+        "Friendly"
+      ],
+      "description": "en-GB Female语音 - Cheerful, Warm, Gentle, Friendly"
+    },
+    "en-GB-AlfieNeural": {
+      "name": "Alfie",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-GB Male语音 - 标准"
+    },
+    "en-GB-BellaNeural": {
+      "name": "Bella",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-GB Female语音 - 标准"
+    },
+    "en-GB-ElliotNeural": {
+      "name": "Elliot",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-GB Male语音 - 标准"
+    },
+    "en-GB-EthanNeural": {
+      "name": "Ethan",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-GB Male语音 - 标准"
+    },
+    "en-GB-HollieNeural": {
+      "name": "Hollie",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-GB Female语音 - 标准"
+    },
+    "en-GB-LibbyNeural": {
+      "name": "Libby",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "en-GB Female语音 - Crisp, Bright, Clear"
+    },
+    "en-GB-MaisieNeural": {
+      "name": "Maisie",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Cheerful",
+        "Bright"
+      ],
+      "description": "en-GB Female语音 - Crisp, Cheerful, Bright"
+    },
+    "en-GB-MiaNeural": {
+      "name": "Mia",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-GB Female语音 - 标准"
+    },
+    "en-GB-NoahNeural": {
+      "name": "Noah",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-GB Male语音 - 标准"
+    },
+    "en-GB-OliverNeural": {
+      "name": "Oliver",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-GB Male语音 - 标准"
+    },
+    "en-GB-OliviaNeural": {
+      "name": "Olivia",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-GB Female语音 - 标准"
+    },
+    "en-GB-OllieMultilingualNeural": {
+      "name": "OllieMultilingual",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Cheerful",
+        "Casual",
+        "Friendly",
+        "Pleasant"
+      ],
+      "description": "en-GB Male语音 - Warm, Cheerful, Casual, Friendly, Pleasant"
+    },
+    "en-GB-RyanNeural": {
+      "name": "Ryan",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [
+        "Bright",
+        "Engaging"
+      ],
+      "description": "en-GB Male语音 - Bright, Engaging"
+    },
+    "en-GB-SoniaNeural": {
+      "name": "Sonia",
+      "language": "en-GB",
+      "gender": "Female",
+      "personalities": [
+        "Gentle",
+        "Soft"
+      ],
+      "description": "en-GB Female语音 - Gentle, Soft"
+    },
+    "en-GB-ThomasNeural": {
+      "name": "Thomas",
+      "language": "en-GB",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-GB Male语音 - 标准"
+    },
+    "en-HK-SamNeural": {
+      "name": "Sam",
+      "language": "en-HK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-HK Male语音 - 标准"
+    },
+    "en-HK-YanNeural": {
+      "name": "Yan",
+      "language": "en-HK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-HK Female语音 - 标准"
+    },
+    "en-IE-ConnorNeural": {
+      "name": "Connor",
+      "language": "en-IE",
+      "gender": "Male",
+      "personalities": [
+        "Light-Hearted",
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "en-IE Male语音 - Light-Hearted, Whimsical, Friendly"
+    },
+    "en-IE-EmilyNeural": {
+      "name": "Emily",
+      "language": "en-IE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IE Female语音 - 标准"
+    },
+    "en-IN-AaravNeural": {
+      "name": "Aarav",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-IN-AartiIndicNeural": {
+      "name": "AartiIndic",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-AartiNeural": {
+      "name": "Aarti",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-AashiNeural": {
+      "name": "Aashi",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-AnanyaNeural": {
+      "name": "Ananya",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-ArjunIndicNeural": {
+      "name": "ArjunIndic",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-IN-ArjunNeural": {
+      "name": "Arjun",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-IN-KavyaNeural": {
+      "name": "Kavya",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-KunalNeural": {
+      "name": "Kunal",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-IN-NeerjaIndicNeural": {
+      "name": "NeerjaIndic",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-NeerjaNeural": {
+      "name": "Neerja",
+      "language": "en-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-IN Female语音 - 标准"
+    },
+    "en-IN-PrabhatIndicNeural": {
+      "name": "PrabhatIndic",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-IN-PrabhatNeural": {
+      "name": "Prabhat",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-IN-RehaanNeural": {
+      "name": "Rehaan",
+      "language": "en-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-IN Male语音 - 标准"
+    },
+    "en-KE-AsiliaNeural": {
+      "name": "Asilia",
+      "language": "en-KE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-KE Female语音 - 标准"
+    },
+    "en-KE-ChilembaNeural": {
+      "name": "Chilemba",
+      "language": "en-KE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-KE Male语音 - 标准"
+    },
+    "en-NG-AbeoNeural": {
+      "name": "Abeo",
+      "language": "en-NG",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-NG Male语音 - 标准"
+    },
+    "en-NG-EzinneNeural": {
+      "name": "Ezinne",
+      "language": "en-NG",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-NG Female语音 - 标准"
+    },
+    "en-NZ-MitchellNeural": {
+      "name": "Mitchell",
+      "language": "en-NZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-NZ Male语音 - 标准"
+    },
+    "en-NZ-MollyNeural": {
+      "name": "Molly",
+      "language": "en-NZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-NZ Female语音 - 标准"
+    },
+    "en-PH-JamesNeural": {
+      "name": "James",
+      "language": "en-PH",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-PH Male语音 - 标准"
+    },
+    "en-PH-RosaNeural": {
+      "name": "Rosa",
+      "language": "en-PH",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-PH Female语音 - 标准"
+    },
+    "en-SG-LunaNeural": {
+      "name": "Luna",
+      "language": "en-SG",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-SG Female语音 - 标准"
+    },
+    "en-SG-WayneNeural": {
+      "name": "Wayne",
+      "language": "en-SG",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-SG Male语音 - 标准"
+    },
+    "en-TZ-ElimuNeural": {
+      "name": "Elimu",
+      "language": "en-TZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-TZ Male语音 - 标准"
+    },
+    "en-TZ-ImaniNeural": {
+      "name": "Imani",
+      "language": "en-TZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-TZ Female语音 - 标准"
+    },
+    "en-US-AdamMultilingualNeural": {
+      "name": "AdamMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "warm",
+        "engaging",
+        "deep"
+      ],
+      "description": "en-US Male语音 - warm, engaging, deep"
+    },
+    "en-US-AlloyTurboMultilingualNeural": {
+      "name": "AlloyTurboMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Versatile"
+      ],
+      "description": "en-US Male语音 - Versatile"
+    },
+    "en-US-AmandaMultilingualNeural": {
+      "name": "AmandaMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "clear",
+        "bright",
+        "youthful"
+      ],
+      "description": "en-US Female语音 - clear, bright, youthful"
+    },
+    "en-US-AmberNeural": {
+      "name": "Amber",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Whimsical",
+        "Upbeat",
+        "Light-Hearted"
+      ],
+      "description": "en-US Female语音 - Whimsical, Upbeat, Light-Hearted"
+    },
+    "en-US-AnaNeural": {
+      "name": "Ana",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful",
+        "Engaging"
+      ],
+      "description": "en-US Female语音 - Curious, Cheerful, Engaging"
+    },
+    "en-US-AndrewMultilingualNeural": {
+      "name": "AndrewMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Confident",
+        "Casual",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Confident, Casual, Warm"
+    },
+    "en-US-AndrewNeural": {
+      "name": "Andrew",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Confident",
+        "Authentic",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Confident, Authentic, Warm"
+    },
+    "en-US-AriaNeural": {
+      "name": "Aria",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "en-US Female语音 - Crisp, Bright, Clear"
+    },
+    "en-US-AshleyNeural": {
+      "name": "Ashley",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Approachable",
+        "Honest"
+      ],
+      "description": "en-US Female语音 - Sincere, Approachable, Honest"
+    },
+    "en-US-AvaMultilingualNeural": {
+      "name": "AvaMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Pleasant",
+        "Friendly",
+        "Caring"
+      ],
+      "description": "en-US Female语音 - Pleasant, Friendly, Caring"
+    },
+    "en-US-AvaNeural": {
+      "name": "Ava",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Pleasant",
+        "Caring",
+        "Friendly"
+      ],
+      "description": "en-US Female语音 - Pleasant, Caring, Friendly"
+    },
+    "en-US-BrandonMultilingualNeural": {
+      "name": "BrandonMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Engaging",
+        "Authentic"
+      ],
+      "description": "en-US Male语音 - Warm, Engaging, Authentic"
+    },
+    "en-US-BrandonNeural": {
+      "name": "Brandon",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Engaging",
+        "Authentic"
+      ],
+      "description": "en-US Male语音 - Warm, Engaging, Authentic"
+    },
+    "en-US-BrianMultilingualNeural": {
+      "name": "BrianMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Sincere",
+        "Calm",
+        "Approachable"
+      ],
+      "description": "en-US Male语音 - Sincere, Calm, Approachable"
+    },
+    "en-US-BrianNeural": {
+      "name": "Brian",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Sincere",
+        "Calm",
+        "Approachable"
+      ],
+      "description": "en-US Male语音 - Sincere, Calm, Approachable"
+    },
+    "en-US-ChristopherMultilingualNeural": {
+      "name": "ChristopherMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Deep",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Deep, Warm"
+    },
+    "en-US-ChristopherNeural": {
+      "name": "Christopher",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Deep",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Deep, Warm"
+    },
+    "en-US-CoraMultilingualNeural": {
+      "name": "CoraMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Empathetic",
+        "Formal",
+        "Sincere"
+      ],
+      "description": "en-US Female语音 - Empathetic, Formal, Sincere"
+    },
+    "en-US-CoraNeural": {
+      "name": "Cora",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Empathetic",
+        "Formal",
+        "Sincere"
+      ],
+      "description": "en-US Female语音 - Empathetic, Formal, Sincere"
+    },
+    "en-US-DavisMultilingualNeural": {
+      "name": "DavisMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "soothing",
+        "calm",
+        "smooth"
+      ],
+      "description": "en-US Male语音 - soothing, calm, smooth"
+    },
+    "en-US-DavisNeural": {
+      "name": "Davis",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Soothing",
+        "Calm",
+        "Smooth"
+      ],
+      "description": "en-US Male语音 - Soothing, Calm, Smooth"
+    },
+    "en-US-DerekMultilingualNeural": {
+      "name": "DerekMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "confident",
+        "knowledgable",
+        "formal"
+      ],
+      "description": "en-US Male语音 - confident, knowledgable, formal"
+    },
+    "en-US-DustinMultilingualNeural": {
+      "name": "DustinMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "youthful",
+        "clear",
+        "thoughtful"
+      ],
+      "description": "en-US Male语音 - youthful, clear, thoughtful"
+    },
+    "en-US-EchoTurboMultilingualNeural": {
+      "name": "EchoTurboMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-US Male语音 - 标准"
+    },
+    "en-US-ElizabethNeural": {
+      "name": "Elizabeth",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Authoritative",
+        "Formal",
+        "Serious"
+      ],
+      "description": "en-US Female语音 - Authoritative, Formal, Serious"
+    },
+    "en-US-EmmaMultilingualNeural": {
+      "name": "EmmaMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Light-Hearted",
+        "Casual"
+      ],
+      "description": "en-US Female语音 - Cheerful, Light-Hearted, Casual"
+    },
+    "en-US-EmmaNeural": {
+      "name": "Emma",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Light-Hearted",
+        "Casual"
+      ],
+      "description": "en-US Female语音 - Cheerful, Light-Hearted, Casual"
+    },
+    "en-US-EricNeural": {
+      "name": "Eric",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Confident",
+        "Sincere",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Confident, Sincere, Warm"
+    },
+    "en-US-FableTurboMultilingualNeural": {
+      "name": "FableTurboMultilingual",
+      "language": "en-US",
+      "gender": "Neutral",
+      "personalities": [],
+      "description": "en-US Neutral语音 - 标准"
+    },
+    "en-US-GuyNeural": {
+      "name": "Guy",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Light-Hearted",
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "en-US Male语音 - Light-Hearted, Whimsical, Friendly"
+    },
+    "en-US-JacobNeural": {
+      "name": "Jacob",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Sincere",
+        "Formal",
+        "Confident"
+      ],
+      "description": "en-US Male语音 - Sincere, Formal, Confident"
+    },
+    "en-US-JaneNeural": {
+      "name": "Jane",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Serious",
+        "Approachable",
+        "Upbeat"
+      ],
+      "description": "en-US Female语音 - Serious, Approachable, Upbeat"
+    },
+    "en-US-JasonNeural": {
+      "name": "Jason",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Gentle",
+        "Shy",
+        "Polite"
+      ],
+      "description": "en-US Male语音 - Gentle, Shy, Polite"
+    },
+    "en-US-JennyMultilingualNeural": {
+      "name": "JennyMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Pleasant",
+        "Approachable"
+      ],
+      "description": "en-US Female语音 - Sincere, Pleasant, Approachable"
+    },
+    "en-US-JennyNeural": {
+      "name": "Jenny",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Pleasant",
+        "Approachable"
+      ],
+      "description": "en-US Female语音 - Sincere, Pleasant, Approachable"
+    },
+    "en-US-KaiNeural": {
+      "name": "Kai",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Sincere",
+        "Pleasant",
+        "Bright",
+        "Clear",
+        "Friendly",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Sincere, Pleasant, Bright, Clear, Friendly, Warm"
+    },
+    "en-US-LewisMultilingualNeural": {
+      "name": "LewisMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "knowledgable",
+        "formal",
+        "confident"
+      ],
+      "description": "en-US Male语音 - knowledgable, formal, confident"
+    },
+    "en-US-LolaMultilingualNeural": {
+      "name": "LolaMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "sincere",
+        "calm",
+        "warm"
+      ],
+      "description": "en-US Female语音 - sincere, calm, warm"
+    },
+    "en-US-LunaNeural": {
+      "name": "Luna",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Pleasant",
+        "Bright",
+        "Clear",
+        "Friendly",
+        "Warm"
+      ],
+      "description": "en-US Female语音 - Sincere, Pleasant, Bright, Clear, Friendly, Warm"
+    },
+    "en-US-MichelleNeural": {
+      "name": "Michelle",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Authentic",
+        "Warm"
+      ],
+      "description": "en-US Female语音 - Confident, Authentic, Warm"
+    },
+    "en-US-MonicaNeural": {
+      "name": "Monica",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Mature",
+        "Authentic",
+        "Warm"
+      ],
+      "description": "en-US Female语音 - Mature, Authentic, Warm"
+    },
+    "en-US-NancyMultilingualNeural": {
+      "name": "NancyMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "casual",
+        "youthful",
+        "approachable"
+      ],
+      "description": "en-US Female语音 - casual, youthful, approachable"
+    },
+    "en-US-NancyNeural": {
+      "name": "Nancy",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Serious",
+        "Mature"
+      ],
+      "description": "en-US Female语音 - Confident, Serious, Mature"
+    },
+    "en-US-NovaTurboMultilingualNeural": {
+      "name": "NovaTurboMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Deep",
+        "Resonant"
+      ],
+      "description": "en-US Female语音 - Deep, Resonant"
+    },
+    "en-US-OnyxTurboMultilingualNeural": {
+      "name": "OnyxTurboMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-US Male语音 - 标准"
+    },
+    "en-US-PhoebeMultilingualNeural": {
+      "name": "PhoebeMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "youthful",
+        "upbeat",
+        "confident"
+      ],
+      "description": "en-US Female语音 - youthful, upbeat, confident"
+    },
+    "en-US-RogerNeural": {
+      "name": "Roger",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Serious",
+        "Formal",
+        "Confident"
+      ],
+      "description": "en-US Male语音 - Serious, Formal, Confident"
+    },
+    "en-US-RyanMultilingualNeural": {
+      "name": "RyanMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Professional",
+        "Authentic",
+        "Sincere"
+      ],
+      "description": "en-US Male语音 - Professional, Authentic, Sincere"
+    },
+    "en-US-SamuelMultilingualNeural": {
+      "name": "SamuelMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "sincere",
+        "warm",
+        "expressive"
+      ],
+      "description": "en-US Male语音 - sincere, warm, expressive"
+    },
+    "en-US-SaraNeural": {
+      "name": "Sara",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "Sincere",
+        "Calm",
+        "Confident"
+      ],
+      "description": "en-US Female语音 - Sincere, Calm, Confident"
+    },
+    "en-US-SerenaMultilingualNeural": {
+      "name": "SerenaMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [
+        "formal",
+        "confident",
+        "mature"
+      ],
+      "description": "en-US Female语音 - formal, confident, mature"
+    },
+    "en-US-ShimmerTurboMultilingualNeural": {
+      "name": "ShimmerTurboMultilingual",
+      "language": "en-US",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-US Female语音 - 标准"
+    },
+    "en-US-SteffanMultilingualNeural": {
+      "name": "SteffanMultilingual",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Thoughtful"
+      ],
+      "description": "en-US Male语音 - Casual, Thoughtful"
+    },
+    "en-US-SteffanNeural": {
+      "name": "Steffan",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Mature",
+        "Authentic",
+        "Warm"
+      ],
+      "description": "en-US Male语音 - Mature, Authentic, Warm"
+    },
+    "en-US-TonyNeural": {
+      "name": "Tony",
+      "language": "en-US",
+      "gender": "Male",
+      "personalities": [
+        "Thoughtful",
+        "Authentic",
+        "Sincere"
+      ],
+      "description": "en-US Male语音 - Thoughtful, Authentic, Sincere"
+    },
+    "en-ZA-LeahNeural": {
+      "name": "Leah",
+      "language": "en-ZA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "en-ZA Female语音 - 标准"
+    },
+    "en-ZA-LukeNeural": {
+      "name": "Luke",
+      "language": "en-ZA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "en-ZA Male语音 - 标准"
+    },
+    "es-AR-ElenaNeural": {
+      "name": "Elena",
+      "language": "es-AR",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Clear"
+      ],
+      "description": "es-AR Female语音 - Bright, Clear"
+    },
+    "es-AR-TomasNeural": {
+      "name": "Tomas",
+      "language": "es-AR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-AR Male语音 - 标准"
+    },
+    "es-BO-MarceloNeural": {
+      "name": "Marcelo",
+      "language": "es-BO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-BO Male语音 - 标准"
+    },
+    "es-BO-SofiaNeural": {
+      "name": "Sofia",
+      "language": "es-BO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-BO Female语音 - 标准"
+    },
+    "es-CL-CatalinaNeural": {
+      "name": "Catalina",
+      "language": "es-CL",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-CL Female语音 - 标准"
+    },
+    "es-CL-LorenzoNeural": {
+      "name": "Lorenzo",
+      "language": "es-CL",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-CL Male语音 - 标准"
+    },
+    "es-CO-GonzaloNeural": {
+      "name": "Gonzalo",
+      "language": "es-CO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-CO Male语音 - 标准"
+    },
+    "es-CO-SalomeNeural": {
+      "name": "Salome",
+      "language": "es-CO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-CO Female语音 - 标准"
+    },
+    "es-CR-JuanNeural": {
+      "name": "Juan",
+      "language": "es-CR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-CR Male语音 - 标准"
+    },
+    "es-CR-MariaNeural": {
+      "name": "Maria",
+      "language": "es-CR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-CR Female语音 - 标准"
+    },
+    "es-CU-BelkysNeural": {
+      "name": "Belkys",
+      "language": "es-CU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-CU Female语音 - 标准"
+    },
+    "es-CU-ManuelNeural": {
+      "name": "Manuel",
+      "language": "es-CU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-CU Male语音 - 标准"
+    },
+    "es-DO-EmilioNeural": {
+      "name": "Emilio",
+      "language": "es-DO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-DO Male语音 - 标准"
+    },
+    "es-DO-RamonaNeural": {
+      "name": "Ramona",
+      "language": "es-DO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-DO Female语音 - 标准"
+    },
+    "es-EC-AndreaNeural": {
+      "name": "Andrea",
+      "language": "es-EC",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-EC Female语音 - 标准"
+    },
+    "es-EC-LuisNeural": {
+      "name": "Luis",
+      "language": "es-EC",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-EC Male语音 - 标准"
+    },
+    "es-ES-AbrilNeural": {
+      "name": "Abril",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-ES Female语音 - 标准"
+    },
+    "es-ES-AlvaroNeural": {
+      "name": "Alvaro",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [
+        "Confident",
+        "Animated"
+      ],
+      "description": "es-ES Male语音 - Confident, Animated"
+    },
+    "es-ES-ArabellaMultilingualNeural": {
+      "name": "ArabellaMultilingual",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Friendly",
+        "Casual",
+        "Warm",
+        "Pleasant"
+      ],
+      "description": "es-ES Female语音 - Cheerful, Friendly, Casual, Warm, Pleasant"
+    },
+    "es-ES-ArnauNeural": {
+      "name": "Arnau",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-ES Male语音 - 标准"
+    },
+    "es-ES-DarioNeural": {
+      "name": "Dario",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-ES Male语音 - 标准"
+    },
+    "es-ES-EliasNeural": {
+      "name": "Elias",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-ES Male语音 - 标准"
+    },
+    "es-ES-ElviraNeural": {
+      "name": "Elvira",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Clear"
+      ],
+      "description": "es-ES Female语音 - Bright, Clear"
+    },
+    "es-ES-EstrellaNeural": {
+      "name": "Estrella",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-ES Female语音 - 标准"
+    },
+    "es-ES-IreneNeural": {
+      "name": "Irene",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "es-ES Female语音 - Curious, Cheerful"
+    },
+    "es-ES-IsidoraMultilingualNeural": {
+      "name": "IsidoraMultilingual",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Friendly",
+        "Warm",
+        "Casual"
+      ],
+      "description": "es-ES Female语音 - Cheerful, Friendly, Warm, Casual"
+    },
+    "es-ES-LaiaNeural": {
+      "name": "Laia",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-ES Female语音 - 标准"
+    },
+    "es-ES-LiaNeural": {
+      "name": "Lia",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Animated",
+        "Bright"
+      ],
+      "description": "es-ES Female语音 - Animated, Bright"
+    },
+    "es-ES-NilNeural": {
+      "name": "Nil",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-ES Male语音 - 标准"
+    },
+    "es-ES-SaulNeural": {
+      "name": "Saul",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-ES Male语音 - 标准"
+    },
+    "es-ES-TeoNeural": {
+      "name": "Teo",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-ES Male语音 - 标准"
+    },
+    "es-ES-TrianaNeural": {
+      "name": "Triana",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-ES Female语音 - 标准"
+    },
+    "es-ES-TristanMultilingualNeural": {
+      "name": "TristanMultilingual",
+      "language": "es-ES",
+      "gender": "Male",
+      "personalities": [
+        "Formal",
+        "Clear",
+        "Trusthworthy"
+      ],
+      "description": "es-ES Male语音 - Formal, Clear, Trusthworthy"
+    },
+    "es-ES-VeraNeural": {
+      "name": "Vera",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-ES Female语音 - 标准"
+    },
+    "es-ES-XimenaMultilingualNeural": {
+      "name": "XimenaMultilingual",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Formal",
+        "Serious",
+        "Upbeat"
+      ],
+      "description": "es-ES Female语音 - Formal, Serious, Upbeat"
+    },
+    "es-ES-XimenaNeural": {
+      "name": "Ximena",
+      "language": "es-ES",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Cheerful"
+      ],
+      "description": "es-ES Female语音 - Crisp, Cheerful"
+    },
+    "es-GQ-JavierNeural": {
+      "name": "Javier",
+      "language": "es-GQ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-GQ Male语音 - 标准"
+    },
+    "es-GQ-TeresaNeural": {
+      "name": "Teresa",
+      "language": "es-GQ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-GQ Female语音 - 标准"
+    },
+    "es-GT-AndresNeural": {
+      "name": "Andres",
+      "language": "es-GT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-GT Male语音 - 标准"
+    },
+    "es-GT-MartaNeural": {
+      "name": "Marta",
+      "language": "es-GT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-GT Female语音 - 标准"
+    },
+    "es-HN-CarlosNeural": {
+      "name": "Carlos",
+      "language": "es-HN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-HN Male语音 - 标准"
+    },
+    "es-HN-KarlaNeural": {
+      "name": "Karla",
+      "language": "es-HN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-HN Female语音 - 标准"
+    },
+    "es-MX-BeatrizNeural": {
+      "name": "Beatriz",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-MX Female语音 - 标准"
+    },
+    "es-MX-CandelaNeural": {
+      "name": "Candela",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-MX Female语音 - 标准"
+    },
+    "es-MX-CarlotaNeural": {
+      "name": "Carlota",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-MX Female语音 - 标准"
+    },
+    "es-MX-CecilioNeural": {
+      "name": "Cecilio",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-MX Male语音 - 标准"
+    },
+    "es-MX-DaliaMultilingualNeural": {
+      "name": "DaliaMultilingual",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Cheerful",
+        "Casual",
+        "Friendly",
+        "Pleasant"
+      ],
+      "description": "es-MX Female语音 - Warm, Cheerful, Casual, Friendly, Pleasant"
+    },
+    "es-MX-DaliaNeural": {
+      "name": "Dalia",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Upbeat"
+      ],
+      "description": "es-MX Female语音 - Bright, Upbeat"
+    },
+    "es-MX-GerardoNeural": {
+      "name": "Gerardo",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-MX Male语音 - 标准"
+    },
+    "es-MX-JorgeMultilingualNeural": {
+      "name": "JorgeMultilingual",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Cheerful",
+        "Casual",
+        "Friendly",
+        "Pleasant"
+      ],
+      "description": "es-MX Male语音 - Warm, Cheerful, Casual, Friendly, Pleasant"
+    },
+    "es-MX-JorgeNeural": {
+      "name": "Jorge",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [
+        "Curious",
+        "Deep",
+        "Confident"
+      ],
+      "description": "es-MX Male语音 - Curious, Deep, Confident"
+    },
+    "es-MX-LarissaNeural": {
+      "name": "Larissa",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-MX Female语音 - 标准"
+    },
+    "es-MX-LibertoNeural": {
+      "name": "Liberto",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-MX Male语音 - 标准"
+    },
+    "es-MX-LucianoNeural": {
+      "name": "Luciano",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-MX Male语音 - 标准"
+    },
+    "es-MX-MarinaNeural": {
+      "name": "Marina",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "es-MX Female语音 - Curious, Cheerful"
+    },
+    "es-MX-NuriaNeural": {
+      "name": "Nuria",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-MX Female语音 - 标准"
+    },
+    "es-MX-PelayoNeural": {
+      "name": "Pelayo",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-MX Male语音 - 标准"
+    },
+    "es-MX-RenataNeural": {
+      "name": "Renata",
+      "language": "es-MX",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-MX Female语音 - 标准"
+    },
+    "es-MX-YagoNeural": {
+      "name": "Yago",
+      "language": "es-MX",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-MX Male语音 - 标准"
+    },
+    "es-NI-FedericoNeural": {
+      "name": "Federico",
+      "language": "es-NI",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-NI Male语音 - 标准"
+    },
+    "es-NI-YolandaNeural": {
+      "name": "Yolanda",
+      "language": "es-NI",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-NI Female语音 - 标准"
+    },
+    "es-PA-MargaritaNeural": {
+      "name": "Margarita",
+      "language": "es-PA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-PA Female语音 - 标准"
+    },
+    "es-PA-RobertoNeural": {
+      "name": "Roberto",
+      "language": "es-PA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-PA Male语音 - 标准"
+    },
+    "es-PE-AlexNeural": {
+      "name": "Alex",
+      "language": "es-PE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-PE Male语音 - 标准"
+    },
+    "es-PE-CamilaNeural": {
+      "name": "Camila",
+      "language": "es-PE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-PE Female语音 - 标准"
+    },
+    "es-PR-KarinaNeural": {
+      "name": "Karina",
+      "language": "es-PR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-PR Female语音 - 标准"
+    },
+    "es-PR-VictorNeural": {
+      "name": "Victor",
+      "language": "es-PR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-PR Male语音 - 标准"
+    },
+    "es-PY-MarioNeural": {
+      "name": "Mario",
+      "language": "es-PY",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-PY Male语音 - 标准"
+    },
+    "es-PY-TaniaNeural": {
+      "name": "Tania",
+      "language": "es-PY",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-PY Female语音 - 标准"
+    },
+    "es-SV-LorenaNeural": {
+      "name": "Lorena",
+      "language": "es-SV",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-SV Female语音 - 标准"
+    },
+    "es-SV-RodrigoNeural": {
+      "name": "Rodrigo",
+      "language": "es-SV",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-SV Male语音 - 标准"
+    },
+    "es-US-AlonsoNeural": {
+      "name": "Alonso",
+      "language": "es-US",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-US Male语音 - 标准"
+    },
+    "es-US-PalomaNeural": {
+      "name": "Paloma",
+      "language": "es-US",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-US Female语音 - 标准"
+    },
+    "es-UY-MateoNeural": {
+      "name": "Mateo",
+      "language": "es-UY",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-UY Male语音 - 标准"
+    },
+    "es-UY-ValentinaNeural": {
+      "name": "Valentina",
+      "language": "es-UY",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-UY Female语音 - 标准"
+    },
+    "es-VE-PaolaNeural": {
+      "name": "Paola",
+      "language": "es-VE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "es-VE Female语音 - 标准"
+    },
+    "es-VE-SebastianNeural": {
+      "name": "Sebastian",
+      "language": "es-VE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "es-VE Male语音 - 标准"
+    },
+    "et-EE-AnuNeural": {
+      "name": "Anu",
+      "language": "et-EE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "et-EE Female语音 - 标准"
+    },
+    "et-EE-KertNeural": {
+      "name": "Kert",
+      "language": "et-EE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "et-EE Male语音 - 标准"
+    },
+    "eu-ES-AinhoaNeural": {
+      "name": "Ainhoa",
+      "language": "eu-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "eu-ES Female语音 - 标准"
+    },
+    "eu-ES-AnderNeural": {
+      "name": "Ander",
+      "language": "eu-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "eu-ES Male语音 - 标准"
+    },
+    "fa-IR-DilaraNeural": {
+      "name": "Dilara",
+      "language": "fa-IR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fa-IR Female语音 - 标准"
+    },
+    "fa-IR-FaridNeural": {
+      "name": "Farid",
+      "language": "fa-IR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fa-IR Male语音 - 标准"
+    },
+    "fi-FI-HarriNeural": {
+      "name": "Harri",
+      "language": "fi-FI",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fi-FI Male语音 - 标准"
+    },
+    "fi-FI-NooraNeural": {
+      "name": "Noora",
+      "language": "fi-FI",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Clear"
+      ],
+      "description": "fi-FI Female语音 - Bright, Clear"
+    },
+    "fi-FI-SelmaNeural": {
+      "name": "Selma",
+      "language": "fi-FI",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fi-FI Female语音 - 标准"
+    },
+    "fr-BE-CharlineNeural": {
+      "name": "Charline",
+      "language": "fr-BE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-BE Female语音 - 标准"
+    },
+    "fr-BE-GerardNeural": {
+      "name": "Gerard",
+      "language": "fr-BE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-BE Male语音 - 标准"
+    },
+    "fr-CA-AntoineNeural": {
+      "name": "Antoine",
+      "language": "fr-CA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-CA Male语音 - 标准"
+    },
+    "fr-CA-JeanNeural": {
+      "name": "Jean",
+      "language": "fr-CA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-CA Male语音 - 标准"
+    },
+    "fr-CA-SylvieNeural": {
+      "name": "Sylvie",
+      "language": "fr-CA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-CA Female语音 - 标准"
+    },
+    "fr-CA-ThierryNeural": {
+      "name": "Thierry",
+      "language": "fr-CA",
+      "gender": "Male",
+      "personalities": [
+        "Engaging",
+        "Caring"
+      ],
+      "description": "fr-CA Male语音 - Engaging, Caring"
+    },
+    "fr-CH-ArianeNeural": {
+      "name": "Ariane",
+      "language": "fr-CH",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-CH Female语音 - 标准"
+    },
+    "fr-CH-FabriceNeural": {
+      "name": "Fabrice",
+      "language": "fr-CH",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-CH Male语音 - 标准"
+    },
+    "fr-FR-AlainNeural": {
+      "name": "Alain",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-FR Male语音 - 标准"
+    },
+    "fr-FR-BrigitteNeural": {
+      "name": "Brigitte",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-FR Female语音 - 标准"
+    },
+    "fr-FR-CelesteNeural": {
+      "name": "Celeste",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-FR Female语音 - 标准"
+    },
+    "fr-FR-ClaudeNeural": {
+      "name": "Claude",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-FR Male语音 - 标准"
+    },
+    "fr-FR-CoralieNeural": {
+      "name": "Coralie",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-FR Female语音 - 标准"
+    },
+    "fr-FR-DeniseNeural": {
+      "name": "Denise",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Engaging"
+      ],
+      "description": "fr-FR Female语音 - Bright, Engaging"
+    },
+    "fr-FR-EloiseNeural": {
+      "name": "Eloise",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "fr-FR Female语音 - Curious, Cheerful"
+    },
+    "fr-FR-HenriNeural": {
+      "name": "Henri",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [
+        "Strong",
+        "Calm"
+      ],
+      "description": "fr-FR Male语音 - Strong, Calm"
+    },
+    "fr-FR-JacquelineNeural": {
+      "name": "Jacqueline",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-FR Female语音 - 标准"
+    },
+    "fr-FR-JeromeNeural": {
+      "name": "Jerome",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-FR Male语音 - 标准"
+    },
+    "fr-FR-JosephineNeural": {
+      "name": "Josephine",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "fr-FR Female语音 - 标准"
+    },
+    "fr-FR-LucienMultilingualNeural": {
+      "name": "LucienMultilingual",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Formal",
+        "Confident"
+      ],
+      "description": "fr-FR Male语音 - Warm, Formal, Confident"
+    },
+    "fr-FR-MauriceNeural": {
+      "name": "Maurice",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-FR Male语音 - 标准"
+    },
+    "fr-FR-RemyMultilingualNeural": {
+      "name": "RemyMultilingual",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [
+        "Bright",
+        "Cheerful"
+      ],
+      "description": "fr-FR Male语音 - Bright, Cheerful"
+    },
+    "fr-FR-VivienneMultilingualNeural": {
+      "name": "VivienneMultilingual",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Casual"
+      ],
+      "description": "fr-FR Female语音 - Warm, Casual"
+    },
+    "fr-FR-YvesNeural": {
+      "name": "Yves",
+      "language": "fr-FR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "fr-FR Male语音 - 标准"
+    },
+    "fr-FR-YvetteNeural": {
+      "name": "Yvette",
+      "language": "fr-FR",
+      "gender": "Female",
+      "personalities": [
+        "Animated",
+        "Bright"
+      ],
+      "description": "fr-FR Female语音 - Animated, Bright"
+    },
+    "ga-IE-ColmNeural": {
+      "name": "Colm",
+      "language": "ga-IE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ga-IE Male语音 - 标准"
+    },
+    "ga-IE-OrlaNeural": {
+      "name": "Orla",
+      "language": "ga-IE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ga-IE Female语音 - 标准"
+    },
+    "gl-ES-RoiNeural": {
+      "name": "Roi",
+      "language": "gl-ES",
+      "gender": "Male",
+      "personalities": [],
+      "description": "gl-ES Male语音 - 标准"
+    },
+    "gl-ES-SabelaNeural": {
+      "name": "Sabela",
+      "language": "gl-ES",
+      "gender": "Female",
+      "personalities": [],
+      "description": "gl-ES Female语音 - 标准"
+    },
+    "gu-IN-DhwaniNeural": {
+      "name": "Dhwani",
+      "language": "gu-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "gu-IN Female语音 - 标准"
+    },
+    "gu-IN-NiranjanNeural": {
+      "name": "Niranjan",
+      "language": "gu-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "gu-IN Male语音 - 标准"
+    },
+    "he-IL-AvriNeural": {
+      "name": "Avri",
+      "language": "he-IL",
+      "gender": "Male",
+      "personalities": [],
+      "description": "he-IL Male语音 - 标准"
+    },
+    "he-IL-HilaNeural": {
+      "name": "Hila",
+      "language": "he-IL",
+      "gender": "Female",
+      "personalities": [],
+      "description": "he-IL Female语音 - 标准"
+    },
+    "hi-IN-AaravNeural": {
+      "name": "Aarav",
+      "language": "hi-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "hi-IN Male语音 - 标准"
+    },
+    "hi-IN-AartiNeural": {
+      "name": "Aarti",
+      "language": "hi-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hi-IN Female语音 - 标准"
+    },
+    "hi-IN-AnanyaNeural": {
+      "name": "Ananya",
+      "language": "hi-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hi-IN Female语音 - 标准"
+    },
+    "hi-IN-ArjunNeural": {
+      "name": "Arjun",
+      "language": "hi-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "hi-IN Male语音 - 标准"
+    },
+    "hi-IN-KavyaNeural": {
+      "name": "Kavya",
+      "language": "hi-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hi-IN Female语音 - 标准"
+    },
+    "hi-IN-KunalNeural": {
+      "name": "Kunal",
+      "language": "hi-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "hi-IN Male语音 - 标准"
+    },
+    "hi-IN-MadhurNeural": {
+      "name": "Madhur",
+      "language": "hi-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "hi-IN Male语音 - 标准"
+    },
+    "hi-IN-RehaanNeural": {
+      "name": "Rehaan",
+      "language": "hi-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "hi-IN Male语音 - 标准"
+    },
+    "hi-IN-SwaraNeural": {
+      "name": "Swara",
+      "language": "hi-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hi-IN Female语音 - 标准"
+    },
+    "hr-HR-GabrijelaNeural": {
+      "name": "Gabrijela",
+      "language": "hr-HR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hr-HR Female语音 - 标准"
+    },
+    "hr-HR-SreckoNeural": {
+      "name": "Srecko",
+      "language": "hr-HR",
+      "gender": "Male",
+      "personalities": [
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "hr-HR Male语音 - Whimsical, Friendly"
+    },
+    "hu-HU-NoemiNeural": {
+      "name": "Noemi",
+      "language": "hu-HU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hu-HU Female语音 - 标准"
+    },
+    "hu-HU-TamasNeural": {
+      "name": "Tamas",
+      "language": "hu-HU",
+      "gender": "Male",
+      "personalities": [
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "hu-HU Male语音 - Whimsical, Friendly"
+    },
+    "hy-AM-AnahitNeural": {
+      "name": "Anahit",
+      "language": "hy-AM",
+      "gender": "Female",
+      "personalities": [],
+      "description": "hy-AM Female语音 - 标准"
+    },
+    "hy-AM-HaykNeural": {
+      "name": "Hayk",
+      "language": "hy-AM",
+      "gender": "Male",
+      "personalities": [],
+      "description": "hy-AM Male语音 - 标准"
+    },
+    "id-ID-ArdiNeural": {
+      "name": "Ardi",
+      "language": "id-ID",
+      "gender": "Male",
+      "personalities": [],
+      "description": "id-ID Male语音 - 标准"
+    },
+    "id-ID-GadisNeural": {
+      "name": "Gadis",
+      "language": "id-ID",
+      "gender": "Female",
+      "personalities": [],
+      "description": "id-ID Female语音 - 标准"
+    },
+    "is-IS-GudrunNeural": {
+      "name": "Gudrun",
+      "language": "is-IS",
+      "gender": "Female",
+      "personalities": [],
+      "description": "is-IS Female语音 - 标准"
+    },
+    "is-IS-GunnarNeural": {
+      "name": "Gunnar",
+      "language": "is-IS",
+      "gender": "Male",
+      "personalities": [],
+      "description": "is-IS Male语音 - 标准"
+    },
+    "it-IT-AlessioMultilingualNeural": {
+      "name": "AlessioMultilingual",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [
+        "Cheerful",
+        "Warm",
+        "Gentle",
+        "Cheerful",
+        "Friendly"
+      ],
+      "description": "it-IT Male语音 - Cheerful, Warm, Gentle, Cheerful, Friendly"
+    },
+    "it-IT-BenignoNeural": {
+      "name": "Benigno",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "it-IT Male语音 - 标准"
+    },
+    "it-IT-CalimeroNeural": {
+      "name": "Calimero",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "it-IT Male语音 - 标准"
+    },
+    "it-IT-CataldoNeural": {
+      "name": "Cataldo",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "it-IT Male语音 - 标准"
+    },
+    "it-IT-DiegoNeural": {
+      "name": "Diego",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [
+        "Animated",
+        "Upbeat"
+      ],
+      "description": "it-IT Male语音 - Animated, Upbeat"
+    },
+    "it-IT-ElsaNeural": {
+      "name": "Elsa",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Crisp"
+      ],
+      "description": "it-IT Female语音 - Confident, Crisp"
+    },
+    "it-IT-FabiolaNeural": {
+      "name": "Fabiola",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "it-IT Female语音 - 标准"
+    },
+    "it-IT-FiammaNeural": {
+      "name": "Fiamma",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "it-IT Female语音 - 标准"
+    },
+    "it-IT-GianniNeural": {
+      "name": "Gianni",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "it-IT Male语音 - 标准"
+    },
+    "it-IT-GiuseppeMultilingualNeural": {
+      "name": "GiuseppeMultilingual",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [
+        "Expressive",
+        "Upbeat",
+        "Youthful"
+      ],
+      "description": "it-IT Male语音 - Expressive, Upbeat, Youthful"
+    },
+    "it-IT-GiuseppeNeural": {
+      "name": "Giuseppe",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [
+        "Bright",
+        "Warm"
+      ],
+      "description": "it-IT Male语音 - Bright, Warm"
+    },
+    "it-IT-ImeldaNeural": {
+      "name": "Imelda",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "it-IT Female语音 - 标准"
+    },
+    "it-IT-IrmaNeural": {
+      "name": "Irma",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "it-IT Female语音 - 标准"
+    },
+    "it-IT-IsabellaMultilingualNeural": {
+      "name": "IsabellaMultilingual",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Cheerful",
+        "Casual",
+        "Friendly",
+        "Pleasant"
+      ],
+      "description": "it-IT Female语音 - Warm, Cheerful, Casual, Friendly, Pleasant"
+    },
+    "it-IT-IsabellaNeural": {
+      "name": "Isabella",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [
+        "Upbeat",
+        "Bright"
+      ],
+      "description": "it-IT Female语音 - Upbeat, Bright"
+    },
+    "it-IT-LisandroNeural": {
+      "name": "Lisandro",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "it-IT Male语音 - 标准"
+    },
+    "it-IT-MarcelloMultilingualNeural": {
+      "name": "MarcelloMultilingual",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [
+        "Cheerful",
+        "Friendly",
+        "Casual",
+        "Warm",
+        "Pleasant"
+      ],
+      "description": "it-IT Male语音 - Cheerful, Friendly, Casual, Warm, Pleasant"
+    },
+    "it-IT-PalmiraNeural": {
+      "name": "Palmira",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [
+        "Animated",
+        "Bright"
+      ],
+      "description": "it-IT Female语音 - Animated, Bright"
+    },
+    "it-IT-PierinaNeural": {
+      "name": "Pierina",
+      "language": "it-IT",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "it-IT Female语音 - Curious, Cheerful"
+    },
+    "it-IT-RinaldoNeural": {
+      "name": "Rinaldo",
+      "language": "it-IT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "it-IT Male语音 - 标准"
+    },
+    "ja-JP-AoiNeural": {
+      "name": "Aoi",
+      "language": "ja-JP",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "ja-JP Female语音 - Curious, Cheerful"
+    },
+    "ja-JP-DaichiNeural": {
+      "name": "Daichi",
+      "language": "ja-JP",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ja-JP Male语音 - 标准"
+    },
+    "ja-JP-KeitaNeural": {
+      "name": "Keita",
+      "language": "ja-JP",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Engaging"
+      ],
+      "description": "ja-JP Male语音 - Casual, Engaging"
+    },
+    "ja-JP-MayuNeural": {
+      "name": "Mayu",
+      "language": "ja-JP",
+      "gender": "Female",
+      "personalities": [
+        "Animated",
+        "Bright"
+      ],
+      "description": "ja-JP Female语音 - Animated, Bright"
+    },
+    "ja-JP-NanamiNeural": {
+      "name": "Nanami",
+      "language": "ja-JP",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Cheerful"
+      ],
+      "description": "ja-JP Female语音 - Bright, Cheerful"
+    },
+    "ja-JP-NaokiNeural": {
+      "name": "Naoki",
+      "language": "ja-JP",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ja-JP Male语音 - 标准"
+    },
+    "ja-JP-ShioriNeural": {
+      "name": "Shiori",
+      "language": "ja-JP",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ja-JP Female语音 - 标准"
+    },
+    "jv-ID-DimasNeural": {
+      "name": "Dimas",
+      "language": "jv-ID",
+      "gender": "Male",
+      "personalities": [],
+      "description": "jv-ID Male语音 - 标准"
+    },
+    "jv-ID-SitiNeural": {
+      "name": "Siti",
+      "language": "jv-ID",
+      "gender": "Female",
+      "personalities": [],
+      "description": "jv-ID Female语音 - 标准"
+    },
+    "ka-GE-EkaNeural": {
+      "name": "Eka",
+      "language": "ka-GE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ka-GE Female语音 - 标准"
+    },
+    "ka-GE-GiorgiNeural": {
+      "name": "Giorgi",
+      "language": "ka-GE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ka-GE Male语音 - 标准"
+    },
+    "kk-KZ-AigulNeural": {
+      "name": "Aigul",
+      "language": "kk-KZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "kk-KZ Female语音 - 标准"
+    },
+    "kk-KZ-DauletNeural": {
+      "name": "Daulet",
+      "language": "kk-KZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "kk-KZ Male语音 - 标准"
+    },
+    "km-KH-PisethNeural": {
+      "name": "Piseth",
+      "language": "km-KH",
+      "gender": "Male",
+      "personalities": [],
+      "description": "km-KH Male语音 - 标准"
+    },
+    "km-KH-SreymomNeural": {
+      "name": "Sreymom",
+      "language": "km-KH",
+      "gender": "Female",
+      "personalities": [],
+      "description": "km-KH Female语音 - 标准"
+    },
+    "kn-IN-GaganNeural": {
+      "name": "Gagan",
+      "language": "kn-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "kn-IN Male语音 - 标准"
+    },
+    "kn-IN-SapnaNeural": {
+      "name": "Sapna",
+      "language": "kn-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "kn-IN Female语音 - 标准"
+    },
+    "ko-KR-BongJinNeural": {
+      "name": "BongJin",
+      "language": "ko-KR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ko-KR Male语音 - 标准"
+    },
+    "ko-KR-GookMinNeural": {
+      "name": "GookMin",
+      "language": "ko-KR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ko-KR Male语音 - 标准"
+    },
+    "ko-KR-HyunsuMultilingualNeural": {
+      "name": "HyunsuMultilingual",
+      "language": "ko-KR",
+      "gender": "Male",
+      "personalities": [
+        "Formal",
+        "Clear",
+        "Confident"
+      ],
+      "description": "ko-KR Male语音 - Formal, Clear, Confident"
+    },
+    "ko-KR-HyunsuNeural": {
+      "name": "Hyunsu",
+      "language": "ko-KR",
+      "gender": "Male",
+      "personalities": [
+        "Bright",
+        "Casual"
+      ],
+      "description": "ko-KR Male语音 - Bright, Casual"
+    },
+    "ko-KR-InJoonNeural": {
+      "name": "InJoon",
+      "language": "ko-KR",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Friendly"
+      ],
+      "description": "ko-KR Male语音 - Casual, Friendly"
+    },
+    "ko-KR-JiMinNeural": {
+      "name": "JiMin",
+      "language": "ko-KR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ko-KR Female语音 - 标准"
+    },
+    "ko-KR-SeoHyeonNeural": {
+      "name": "SeoHyeon",
+      "language": "ko-KR",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "ko-KR Female语音 - Curious, Cheerful"
+    },
+    "ko-KR-SoonBokNeural": {
+      "name": "SoonBok",
+      "language": "ko-KR",
+      "gender": "Female",
+      "personalities": [
+        "Animated",
+        "Bright"
+      ],
+      "description": "ko-KR Female语音 - Animated, Bright"
+    },
+    "ko-KR-SunHiNeural": {
+      "name": "SunHi",
+      "language": "ko-KR",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Formal"
+      ],
+      "description": "ko-KR Female语音 - Confident, Formal"
+    },
+    "ko-KR-YuJinNeural": {
+      "name": "YuJin",
+      "language": "ko-KR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ko-KR Female语音 - 标准"
+    },
+    "lo-LA-ChanthavongNeural": {
+      "name": "Chanthavong",
+      "language": "lo-LA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "lo-LA Male语音 - 标准"
+    },
+    "lo-LA-KeomanyNeural": {
+      "name": "Keomany",
+      "language": "lo-LA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "lo-LA Female语音 - 标准"
+    },
+    "lt-LT-LeonasNeural": {
+      "name": "Leonas",
+      "language": "lt-LT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "lt-LT Male语音 - 标准"
+    },
+    "lt-LT-OnaNeural": {
+      "name": "Ona",
+      "language": "lt-LT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "lt-LT Female语音 - 标准"
+    },
+    "lv-LV-EveritaNeural": {
+      "name": "Everita",
+      "language": "lv-LV",
+      "gender": "Female",
+      "personalities": [],
+      "description": "lv-LV Female语音 - 标准"
+    },
+    "lv-LV-NilsNeural": {
+      "name": "Nils",
+      "language": "lv-LV",
+      "gender": "Male",
+      "personalities": [],
+      "description": "lv-LV Male语音 - 标准"
+    },
+    "mk-MK-AleksandarNeural": {
+      "name": "Aleksandar",
+      "language": "mk-MK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "mk-MK Male语音 - 标准"
+    },
+    "mk-MK-MarijaNeural": {
+      "name": "Marija",
+      "language": "mk-MK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "mk-MK Female语音 - 标准"
+    },
+    "ml-IN-MidhunNeural": {
+      "name": "Midhun",
+      "language": "ml-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ml-IN Male语音 - 标准"
+    },
+    "ml-IN-SobhanaNeural": {
+      "name": "Sobhana",
+      "language": "ml-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ml-IN Female语音 - 标准"
+    },
+    "mn-MN-BataaNeural": {
+      "name": "Bataa",
+      "language": "mn-MN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "mn-MN Male语音 - 标准"
+    },
+    "mn-MN-YesuiNeural": {
+      "name": "Yesui",
+      "language": "mn-MN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "mn-MN Female语音 - 标准"
+    },
+    "mr-IN-AarohiNeural": {
+      "name": "Aarohi",
+      "language": "mr-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "mr-IN Female语音 - 标准"
+    },
+    "mr-IN-ManoharNeural": {
+      "name": "Manohar",
+      "language": "mr-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "mr-IN Male语音 - 标准"
+    },
+    "ms-MY-OsmanNeural": {
+      "name": "Osman",
+      "language": "ms-MY",
+      "gender": "Male",
+      "personalities": [
+        "Whimsical",
+        "Friendly"
+      ],
+      "description": "ms-MY Male语音 - Whimsical, Friendly"
+    },
+    "ms-MY-YasminNeural": {
+      "name": "Yasmin",
+      "language": "ms-MY",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ms-MY Female语音 - 标准"
+    },
+    "mt-MT-GraceNeural": {
+      "name": "Grace",
+      "language": "mt-MT",
+      "gender": "Female",
+      "personalities": [],
+      "description": "mt-MT Female语音 - 标准"
+    },
+    "mt-MT-JosephNeural": {
+      "name": "Joseph",
+      "language": "mt-MT",
+      "gender": "Male",
+      "personalities": [],
+      "description": "mt-MT Male语音 - 标准"
+    },
+    "my-MM-NilarNeural": {
+      "name": "Nilar",
+      "language": "my-MM",
+      "gender": "Female",
+      "personalities": [],
+      "description": "my-MM Female语音 - 标准"
+    },
+    "my-MM-ThihaNeural": {
+      "name": "Thiha",
+      "language": "my-MM",
+      "gender": "Male",
+      "personalities": [],
+      "description": "my-MM Male语音 - 标准"
+    },
+    "nb-NO-FinnNeural": {
+      "name": "Finn",
+      "language": "nb-NO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "nb-NO Male语音 - 标准"
+    },
+    "nb-NO-IselinNeural": {
+      "name": "Iselin",
+      "language": "nb-NO",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Clear"
+      ],
+      "description": "nb-NO Female语音 - Bright, Clear"
+    },
+    "nb-NO-PernilleNeural": {
+      "name": "Pernille",
+      "language": "nb-NO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "nb-NO Female语音 - 标准"
+    },
+    "ne-NP-HemkalaNeural": {
+      "name": "Hemkala",
+      "language": "ne-NP",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ne-NP Female语音 - 标准"
+    },
+    "ne-NP-SagarNeural": {
+      "name": "Sagar",
+      "language": "ne-NP",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ne-NP Male语音 - 标准"
+    },
+    "nl-BE-ArnaudNeural": {
+      "name": "Arnaud",
+      "language": "nl-BE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "nl-BE Male语音 - 标准"
+    },
+    "nl-BE-DenaNeural": {
+      "name": "Dena",
+      "language": "nl-BE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "nl-BE Female语音 - 标准"
+    },
+    "nl-NL-ColetteNeural": {
+      "name": "Colette",
+      "language": "nl-NL",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Clear"
+      ],
+      "description": "nl-NL Female语音 - Bright, Clear"
+    },
+    "nl-NL-FennaNeural": {
+      "name": "Fenna",
+      "language": "nl-NL",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Confident"
+      ],
+      "description": "nl-NL Female语音 - Bright, Confident"
+    },
+    "nl-NL-MaartenNeural": {
+      "name": "Maarten",
+      "language": "nl-NL",
+      "gender": "Male",
+      "personalities": [
+        "Formal",
+        "Upbeat"
+      ],
+      "description": "nl-NL Male语音 - Formal, Upbeat"
+    },
+    "or-IN-SubhasiniNeural": {
+      "name": "Subhasini",
+      "language": "or-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "or-IN Female语音 - 标准"
+    },
+    "or-IN-SukantNeural": {
+      "name": "Sukant",
+      "language": "or-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "or-IN Male语音 - 标准"
+    },
+    "pa-IN-OjasNeural": {
+      "name": "Ojas",
+      "language": "pa-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pa-IN Male语音 - 标准"
+    },
+    "pa-IN-VaaniNeural": {
+      "name": "Vaani",
+      "language": "pa-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pa-IN Female语音 - 标准"
+    },
+    "pl-PL-AgnieszkaNeural": {
+      "name": "Agnieszka",
+      "language": "pl-PL",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pl-PL Female语音 - 标准"
+    },
+    "pl-PL-MarekNeural": {
+      "name": "Marek",
+      "language": "pl-PL",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pl-PL Male语音 - 标准"
+    },
+    "pl-PL-ZofiaNeural": {
+      "name": "Zofia",
+      "language": "pl-PL",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Clear"
+      ],
+      "description": "pl-PL Female语音 - Bright, Clear"
+    },
+    "ps-AF-GulNawazNeural": {
+      "name": "GulNawaz",
+      "language": "ps-AF",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ps-AF Male语音 - 标准"
+    },
+    "ps-AF-LatifaNeural": {
+      "name": "Latifa",
+      "language": "ps-AF",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ps-AF Female语音 - 标准"
+    },
+    "pt-BR-AntonioNeural": {
+      "name": "Antonio",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [
+        "Bright",
+        "Upbeat"
+      ],
+      "description": "pt-BR Male语音 - Bright, Upbeat"
+    },
+    "pt-BR-BrendaNeural": {
+      "name": "Brenda",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pt-BR Female语音 - 标准"
+    },
+    "pt-BR-DonatoNeural": {
+      "name": "Donato",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pt-BR Male语音 - 标准"
+    },
+    "pt-BR-ElzaNeural": {
+      "name": "Elza",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pt-BR Female语音 - 标准"
+    },
+    "pt-BR-FabioNeural": {
+      "name": "Fabio",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pt-BR Male语音 - 标准"
+    },
+    "pt-BR-FranciscaNeural": {
+      "name": "Francisca",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Crisp"
+      ],
+      "description": "pt-BR Female语音 - Cheerful, Crisp"
+    },
+    "pt-BR-GiovannaNeural": {
+      "name": "Giovanna",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pt-BR Female语音 - 标准"
+    },
+    "pt-BR-HumbertoNeural": {
+      "name": "Humberto",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pt-BR Male语音 - 标准"
+    },
+    "pt-BR-JulioNeural": {
+      "name": "Julio",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pt-BR Male语音 - 标准"
+    },
+    "pt-BR-LeilaNeural": {
+      "name": "Leila",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pt-BR Female语音 - 标准"
+    },
+    "pt-BR-LeticiaNeural": {
+      "name": "Leticia",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [
+        "Curious",
+        "Cheerful"
+      ],
+      "description": "pt-BR Female语音 - Curious, Cheerful"
+    },
+    "pt-BR-MacerioMultilingualNeural": {
+      "name": "MacerioMultilingual",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [
+        "Clear",
+        "Confident",
+        "Upbeat"
+      ],
+      "description": "pt-BR Male语音 - Clear, Confident, Upbeat"
+    },
+    "pt-BR-ManuelaNeural": {
+      "name": "Manuela",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [],
+      "description": "pt-BR Female语音 - 标准"
+    },
+    "pt-BR-NicolauNeural": {
+      "name": "Nicolau",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pt-BR Male语音 - 标准"
+    },
+    "pt-BR-ThalitaMultilingualNeural": {
+      "name": "ThalitaMultilingual",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Formal",
+        "Warm",
+        "Cheerful",
+        "Casual"
+      ],
+      "description": "pt-BR Female语音 - Confident, Formal, Warm, Cheerful, Casual"
+    },
+    "pt-BR-ThalitaNeural": {
+      "name": "Thalita",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Formal"
+      ],
+      "description": "pt-BR Female语音 - Confident, Formal"
+    },
+    "pt-BR-ValerioNeural": {
+      "name": "Valerio",
+      "language": "pt-BR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "pt-BR Male语音 - 标准"
+    },
+    "pt-BR-YaraNeural": {
+      "name": "Yara",
+      "language": "pt-BR",
+      "gender": "Female",
+      "personalities": [
+        "Well-Rounded",
+        "Animated",
+        "Bright"
+      ],
+      "description": "pt-BR Female语音 - Well-Rounded, Animated, Bright"
+    },
+    "pt-PT-DuarteNeural": {
+      "name": "Duarte",
+      "language": "pt-PT",
+      "gender": "Male",
+      "personalities": [
+        "Serious",
+        "Deep"
+      ],
+      "description": "pt-PT Male语音 - Serious, Deep"
+    },
+    "pt-PT-FernandaNeural": {
+      "name": "Fernanda",
+      "language": "pt-PT",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "pt-PT Female语音 - Crisp, Bright, Clear"
+    },
+    "pt-PT-RaquelNeural": {
+      "name": "Raquel",
+      "language": "pt-PT",
+      "gender": "Female",
+      "personalities": [
+        "Calm",
+        "Bright"
+      ],
+      "description": "pt-PT Female语音 - Calm, Bright"
+    },
+    "ro-RO-AlinaNeural": {
+      "name": "Alina",
+      "language": "ro-RO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ro-RO Female语音 - 标准"
+    },
+    "ro-RO-EmilNeural": {
+      "name": "Emil",
+      "language": "ro-RO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ro-RO Male语音 - 标准"
+    },
+    "ru-RU-DariyaNeural": {
+      "name": "Dariya",
+      "language": "ru-RU",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "ru-RU Female语音 - Crisp, Bright, Clear"
+    },
+    "ru-RU-DmitryNeural": {
+      "name": "Dmitry",
+      "language": "ru-RU",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ru-RU Male语音 - 标准"
+    },
+    "ru-RU-SvetlanaNeural": {
+      "name": "Svetlana",
+      "language": "ru-RU",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ru-RU Female语音 - 标准"
+    },
+    "si-LK-SameeraNeural": {
+      "name": "Sameera",
+      "language": "si-LK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "si-LK Male语音 - 标准"
+    },
+    "si-LK-ThiliniNeural": {
+      "name": "Thilini",
+      "language": "si-LK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "si-LK Female语音 - 标准"
+    },
+    "sk-SK-LukasNeural": {
+      "name": "Lukas",
+      "language": "sk-SK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sk-SK Male语音 - 标准"
+    },
+    "sk-SK-ViktoriaNeural": {
+      "name": "Viktoria",
+      "language": "sk-SK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sk-SK Female语音 - 标准"
+    },
+    "sl-SI-PetraNeural": {
+      "name": "Petra",
+      "language": "sl-SI",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sl-SI Female语音 - 标准"
+    },
+    "sl-SI-RokNeural": {
+      "name": "Rok",
+      "language": "sl-SI",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sl-SI Male语音 - 标准"
+    },
+    "so-SO-MuuseNeural": {
+      "name": "Muuse",
+      "language": "so-SO",
+      "gender": "Male",
+      "personalities": [],
+      "description": "so-SO Male语音 - 标准"
+    },
+    "so-SO-UbaxNeural": {
+      "name": "Ubax",
+      "language": "so-SO",
+      "gender": "Female",
+      "personalities": [],
+      "description": "so-SO Female语音 - 标准"
+    },
+    "sq-AL-AnilaNeural": {
+      "name": "Anila",
+      "language": "sq-AL",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sq-AL Female语音 - 标准"
+    },
+    "sq-AL-IlirNeural": {
+      "name": "Ilir",
+      "language": "sq-AL",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sq-AL Male语音 - 标准"
+    },
+    "sr-RS-NicholasNeural": {
+      "name": "Nicholas",
+      "language": "sr-RS",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sr-RS Male语音 - 标准"
+    },
+    "sr-RS-SophieNeural": {
+      "name": "Sophie",
+      "language": "sr-RS",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sr-RS Female语音 - 标准"
+    },
+    "su-ID-JajangNeural": {
+      "name": "Jajang",
+      "language": "su-ID",
+      "gender": "Male",
+      "personalities": [],
+      "description": "su-ID Male语音 - 标准"
+    },
+    "su-ID-TutiNeural": {
+      "name": "Tuti",
+      "language": "su-ID",
+      "gender": "Female",
+      "personalities": [],
+      "description": "su-ID Female语音 - 标准"
+    },
+    "sv-SE-HilleviNeural": {
+      "name": "Hillevi",
+      "language": "sv-SE",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "sv-SE Female语音 - Crisp, Bright, Clear"
+    },
+    "sv-SE-MattiasNeural": {
+      "name": "Mattias",
+      "language": "sv-SE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sv-SE Male语音 - 标准"
+    },
+    "sv-SE-SofieNeural": {
+      "name": "Sofie",
+      "language": "sv-SE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sv-SE Female语音 - 标准"
+    },
+    "sw-KE-RafikiNeural": {
+      "name": "Rafiki",
+      "language": "sw-KE",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sw-KE Male语音 - 标准"
+    },
+    "sw-KE-ZuriNeural": {
+      "name": "Zuri",
+      "language": "sw-KE",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sw-KE Female语音 - 标准"
+    },
+    "sw-TZ-DaudiNeural": {
+      "name": "Daudi",
+      "language": "sw-TZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "sw-TZ Male语音 - 标准"
+    },
+    "sw-TZ-RehemaNeural": {
+      "name": "Rehema",
+      "language": "sw-TZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "sw-TZ Female语音 - 标准"
+    },
+    "ta-IN-PallaviNeural": {
+      "name": "Pallavi",
+      "language": "ta-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ta-IN Female语音 - 标准"
+    },
+    "ta-IN-ValluvarNeural": {
+      "name": "Valluvar",
+      "language": "ta-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ta-IN Male语音 - 标准"
+    },
+    "ta-LK-KumarNeural": {
+      "name": "Kumar",
+      "language": "ta-LK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ta-LK Male语音 - 标准"
+    },
+    "ta-LK-SaranyaNeural": {
+      "name": "Saranya",
+      "language": "ta-LK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ta-LK Female语音 - 标准"
+    },
+    "ta-MY-KaniNeural": {
+      "name": "Kani",
+      "language": "ta-MY",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ta-MY Female语音 - 标准"
+    },
+    "ta-MY-SuryaNeural": {
+      "name": "Surya",
+      "language": "ta-MY",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ta-MY Male语音 - 标准"
+    },
+    "ta-SG-AnbuNeural": {
+      "name": "Anbu",
+      "language": "ta-SG",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ta-SG Male语音 - 标准"
+    },
+    "ta-SG-VenbaNeural": {
+      "name": "Venba",
+      "language": "ta-SG",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ta-SG Female语音 - 标准"
+    },
+    "te-IN-MohanNeural": {
+      "name": "Mohan",
+      "language": "te-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "te-IN Male语音 - 标准"
+    },
+    "te-IN-ShrutiNeural": {
+      "name": "Shruti",
+      "language": "te-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "te-IN Female语音 - 标准"
+    },
+    "th-TH-AcharaNeural": {
+      "name": "Achara",
+      "language": "th-TH",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "th-TH Female语音 - Crisp, Bright, Clear"
+    },
+    "th-TH-NiwatNeural": {
+      "name": "Niwat",
+      "language": "th-TH",
+      "gender": "Male",
+      "personalities": [],
+      "description": "th-TH Male语音 - 标准"
+    },
+    "th-TH-PremwadeeNeural": {
+      "name": "Premwadee",
+      "language": "th-TH",
+      "gender": "Female",
+      "personalities": [],
+      "description": "th-TH Female语音 - 标准"
+    },
+    "tr-TR-AhmetNeural": {
+      "name": "Ahmet",
+      "language": "tr-TR",
+      "gender": "Male",
+      "personalities": [],
+      "description": "tr-TR Male语音 - 标准"
+    },
+    "tr-TR-EmelNeural": {
+      "name": "Emel",
+      "language": "tr-TR",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "tr-TR Female语音 - Crisp, Bright, Clear"
+    },
+    "uk-UA-OstapNeural": {
+      "name": "Ostap",
+      "language": "uk-UA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "uk-UA Male语音 - 标准"
+    },
+    "uk-UA-PolinaNeural": {
+      "name": "Polina",
+      "language": "uk-UA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "uk-UA Female语音 - 标准"
+    },
+    "ur-IN-GulNeural": {
+      "name": "Gul",
+      "language": "ur-IN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ur-IN Female语音 - 标准"
+    },
+    "ur-IN-SalmanNeural": {
+      "name": "Salman",
+      "language": "ur-IN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ur-IN Male语音 - 标准"
+    },
+    "ur-PK-AsadNeural": {
+      "name": "Asad",
+      "language": "ur-PK",
+      "gender": "Male",
+      "personalities": [],
+      "description": "ur-PK Male语音 - 标准"
+    },
+    "ur-PK-UzmaNeural": {
+      "name": "Uzma",
+      "language": "ur-PK",
+      "gender": "Female",
+      "personalities": [],
+      "description": "ur-PK Female语音 - 标准"
+    },
+    "uz-UZ-MadinaNeural": {
+      "name": "Madina",
+      "language": "uz-UZ",
+      "gender": "Female",
+      "personalities": [],
+      "description": "uz-UZ Female语音 - 标准"
+    },
+    "uz-UZ-SardorNeural": {
+      "name": "Sardor",
+      "language": "uz-UZ",
+      "gender": "Male",
+      "personalities": [],
+      "description": "uz-UZ Male语音 - 标准"
+    },
+    "vi-VN-HoaiMyNeural": {
+      "name": "HoaiMy",
+      "language": "vi-VN",
+      "gender": "Female",
+      "personalities": [],
+      "description": "vi-VN Female语音 - 标准"
+    },
+    "vi-VN-NamMinhNeural": {
+      "name": "NamMinh",
+      "language": "vi-VN",
+      "gender": "Male",
+      "personalities": [],
+      "description": "vi-VN Male语音 - 标准"
+    },
+    "zh-CN-XiaochenMultilingualNeural": {
+      "name": "XiaochenMultilingual",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Friendly",
+        "Casual",
+        "Upbeat"
+      ],
+      "description": "zh-CN Female语音 - Friendly, Casual, Upbeat"
+    },
+    "zh-CN-XiaochenNeural": {
+      "name": "Xiaochen",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Friendly",
+        "Casual",
+        "Upbeat"
+      ],
+      "description": "zh-CN Female语音 - Friendly, Casual, Upbeat"
+    },
+    "zh-CN-XiaohanNeural": {
+      "name": "Xiaohan",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Gentle",
+        "Warm",
+        "Emotional"
+      ],
+      "description": "zh-CN Female语音 - Gentle, Warm, Emotional"
+    },
+    "zh-CN-XiaomengNeural": {
+      "name": "Xiaomeng",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Gentle",
+        "Upbeat",
+        "Friendly"
+      ],
+      "description": "zh-CN Female语音 - Gentle, Upbeat, Friendly"
+    },
+    "zh-CN-XiaomoNeural": {
+      "name": "Xiaomo",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Deep",
+        "Casual",
+        "Calm"
+      ],
+      "description": "zh-CN Female语音 - Deep, Casual, Calm"
+    },
+    "zh-CN-XiaoqiuNeural": {
+      "name": "Xiaoqiu",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Calm",
+        "Engaging",
+        "Soothing"
+      ],
+      "description": "zh-CN Female语音 - Calm, Engaging, Soothing"
+    },
+    "zh-CN-XiaorouNeural": {
+      "name": "Xiaorou",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Cheerful",
+        "Engaging",
+        "Pleasant"
+      ],
+      "description": "zh-CN Female语音 - Cheerful, Engaging, Pleasant"
+    },
+    "zh-CN-XiaoruiNeural": {
+      "name": "Xiaorui",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Emotional",
+        "Hoarse"
+      ],
+      "description": "zh-CN Female语音 - Confident, Emotional, Hoarse"
+    },
+    "zh-CN-XiaoshuangNeural": {
+      "name": "Xiaoshuang",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Cheerful",
+        "Bright"
+      ],
+      "description": "zh-CN Female语音 - Crisp, Cheerful, Bright"
+    },
+    "zh-CN-XiaoxiaoDialectsNeural": {
+      "name": "XiaoxiaoDialects",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Animated",
+        "Bright"
+      ],
+      "description": "zh-CN Female语音 - Warm, Animated, Bright"
+    },
+    "zh-CN-XiaoxiaoMultilingualNeural": {
+      "name": "XiaoxiaoMultilingual",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Animated",
+        "Bright"
+      ],
+      "description": "zh-CN Female语音 - Warm, Animated, Bright"
+    },
+    "zh-CN-XiaoxiaoNeural": {
+      "name": "Xiaoxiao",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Well-Rounded",
+        "Animated"
+      ],
+      "description": "zh-CN Female语音 - Warm, Well-Rounded, Animated"
+    },
+    "zh-CN-XiaoyanNeural": {
+      "name": "Xiaoyan",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Warm",
+        "Gentle",
+        "Empathetic"
+      ],
+      "description": "zh-CN Female语音 - Warm, Gentle, Empathetic"
+    },
+    "zh-CN-XiaoyiNeural": {
+      "name": "Xiaoyi",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Emotional",
+        "Engaging"
+      ],
+      "description": "zh-CN Female语音 - Bright, Emotional, Engaging"
+    },
+    "zh-CN-XiaoyouNeural": {
+      "name": "Xiaoyou",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Cheerful",
+        "Bright"
+      ],
+      "description": "zh-CN Female语音 - Crisp, Cheerful, Bright"
+    },
+    "zh-CN-XiaoyuMultilingualNeural": {
+      "name": "XiaoyuMultilingual",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Deep",
+        "Confident",
+        "Casual"
+      ],
+      "description": "zh-CN Female语音 - Deep, Confident, Casual"
+    },
+    "zh-CN-XiaozhenNeural": {
+      "name": "Xiaozhen",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Calm",
+        "Serious",
+        "Confident"
+      ],
+      "description": "zh-CN Female语音 - Calm, Serious, Confident"
+    },
+    "zh-CN-YunfengNeural": {
+      "name": "Yunfeng",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Confident",
+        "Animated",
+        "Emotional"
+      ],
+      "description": "zh-CN Male语音 - Confident, Animated, Emotional"
+    },
+    "zh-CN-YunhaoNeural": {
+      "name": "Yunhao",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Warm",
+        "Soft",
+        "Upbeat"
+      ],
+      "description": "zh-CN Male语音 - Warm, Soft, Upbeat"
+    },
+    "zh-CN-YunjianNeural": {
+      "name": "Yunjian",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Deep",
+        "Casual",
+        "Engaging"
+      ],
+      "description": "zh-CN Male语音 - Deep, Casual, Engaging"
+    },
+    "zh-CN-YunjieNeural": {
+      "name": "Yunjie",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Confident",
+        "Warm"
+      ],
+      "description": "zh-CN Male语音 - Casual, Confident, Warm"
+    },
+    "zh-CN-YunxiNeural": {
+      "name": "Yunxi",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Bright",
+        "Animated",
+        "Cheerful"
+      ],
+      "description": "zh-CN Male语音 - Bright, Animated, Cheerful"
+    },
+    "zh-CN-YunxiaNeural": {
+      "name": "Yunxia",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Cheerful",
+        "Friendly",
+        "Emotional"
+      ],
+      "description": "zh-CN Male语音 - Cheerful, Friendly, Emotional"
+    },
+    "zh-CN-YunxiaoMultilingualNeural": {
+      "name": "YunxiaoMultilingual",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Gentle",
+        "Casual",
+        "Friendly"
+      ],
+      "description": "zh-CN Male语音 - Gentle, Casual, Friendly"
+    },
+    "zh-CN-YunyangNeural": {
+      "name": "Yunyang",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Formal",
+        "Deep",
+        "Calm"
+      ],
+      "description": "zh-CN Male语音 - Formal, Deep, Calm"
+    },
+    "zh-CN-YunyeNeural": {
+      "name": "Yunye",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Deep",
+        "Calm"
+      ],
+      "description": "zh-CN Male语音 - Casual, Deep, Calm"
+    },
+    "zh-CN-YunyiMultilingualNeural": {
+      "name": "YunyiMultilingual",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Gentle",
+        "Casual",
+        "Friendly"
+      ],
+      "description": "zh-CN Male语音 - Gentle, Casual, Friendly"
+    },
+    "zh-CN-YunzeNeural": {
+      "name": "Yunze",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Deep",
+        "Confident",
+        "Formal"
+      ],
+      "description": "zh-CN Male语音 - Deep, Confident, Formal"
+    },
+    "zh-CN-henan-YundengNeural": {
+      "name": "Yundeng",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Friendly",
+        "Animated"
+      ],
+      "description": "zh-CN Male语音 - Casual, Friendly, Animated"
+    },
+    "zh-CN-liaoning-XiaobeiNeural": {
+      "name": "Xiaobei",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Friendly",
+        "Casual",
+        "Gentle"
+      ],
+      "description": "zh-CN Female语音 - Friendly, Casual, Gentle"
+    },
+    "zh-CN-shaanxi-XiaoniNeural": {
+      "name": "Xiaoni",
+      "language": "zh-CN",
+      "gender": "Female",
+      "personalities": [
+        "Confident",
+        "Engaging",
+        "Casual"
+      ],
+      "description": "zh-CN Female语音 - Confident, Engaging, Casual"
+    },
+    "zh-CN-shandong-YunxiangNeural": {
+      "name": "Yunxiang",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Animated",
+        "Strong"
+      ],
+      "description": "zh-CN Male语音 - Casual, Animated, Strong"
+    },
+    "zh-CN-sichuan-YunxiNeural": {
+      "name": "Yunxi",
+      "language": "zh-CN",
+      "gender": "Male",
+      "personalities": [
+        "Casual",
+        "Animated",
+        "Gentle"
+      ],
+      "description": "zh-CN Male语音 - Casual, Animated, Gentle"
+    },
+    "zh-HK-HiuGaaiNeural": {
+      "name": "HiuGaai",
+      "language": "zh-HK",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "zh-HK Female语音 - Crisp, Bright, Clear"
+    },
+    "zh-HK-HiuMaanNeural": {
+      "name": "HiuMaan",
+      "language": "zh-HK",
+      "gender": "Female",
+      "personalities": [
+        "Bright",
+        "Upbeat"
+      ],
+      "description": "zh-HK Female语音 - Bright, Upbeat"
+    },
+    "zh-HK-WanLungNeural": {
+      "name": "WanLung",
+      "language": "zh-HK",
+      "gender": "Male",
+      "personalities": [
+        "Calm",
+        "Formal"
+      ],
+      "description": "zh-HK Male语音 - Calm, Formal"
+    },
+    "zh-TW-HsiaoChenNeural": {
+      "name": "HsiaoChen",
+      "language": "zh-TW",
+      "gender": "Female",
+      "personalities": [
+        "Soft",
+        "Caring"
+      ],
+      "description": "zh-TW Female语音 - Soft, Caring"
+    },
+    "zh-TW-HsiaoYuNeural": {
+      "name": "HsiaoYu",
+      "language": "zh-TW",
+      "gender": "Female",
+      "personalities": [
+        "Crisp",
+        "Bright",
+        "Clear"
+      ],
+      "description": "zh-TW Female语音 - Crisp, Bright, Clear"
+    },
+    "zh-TW-YunJheNeural": {
+      "name": "YunJhe",
+      "language": "zh-TW",
+      "gender": "Male",
+      "personalities": [
+        "Engaging",
+        "Gentle"
+      ],
+      "description": "zh-TW Male语音 - Engaging, Gentle"
+    },
+    "zu-ZA-ThandoNeural": {
+      "name": "Thando",
+      "language": "zu-ZA",
+      "gender": "Female",
+      "personalities": [],
+      "description": "zu-ZA Female语音 - 标准"
+    },
+    "zu-ZA-ThembaNeural": {
+      "name": "Themba",
+      "language": "zu-ZA",
+      "gender": "Male",
+      "personalities": [],
+      "description": "zu-ZA Male语音 - 标准"
+    }
+  }
+}

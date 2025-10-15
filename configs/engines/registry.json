@@ -1,0 +1,153 @@
+{
+  "config_version": "2.0.0",
+  "last_updated": "2025-09-22T23:19:32.381605",
+  "engines": {
+    "edge_tts": {
+      "info": {
+        "name": "Edge TTS",
+        "version": "7.2.3",
+        "description": "微软Edge浏览器TTS服务",
+        "author": "Microsoft",
+        "website": "https://github.com/rany2/edge-tts",
+        "license": "MIT",
+        "supported_languages": [
+          "zh-CN",
+          "en-US",
+          "ja-JP",
+          "ko-KR"
+        ],
+        "supported_formats": [
+          "wav",
+          "mp3"
+        ],
+        "is_online": true,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "zh-CN-XiaoxiaoNeural",
+        "rate": 1.0,
+        "pitch": 0,
+        "volume": 1.0,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {
+          "voice_name": "zh-CN-XiaoxiaoNeural",
+          "use_async": true,
+          "voice_style": "default",
+          "voice_role": "default",
+          "parameter_format": "percentage",
+          "rate_range": "0.5x - 2.0x (对应 -50% 到 +100%)",
+          "volume_range": "0.5 - 2.0 (对应 -50% 到 +100%)"
+        }
+      },
+      "status": {
+        "status": "available",
+        "last_check": "",
+        "error_message": "Edge TTS可用",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 1,
+      "created_at": "2025-09-26T22:45:00.000000",
+      "updated_at": "2025-09-26T22:45:00.000000"
+    },
+    "piper_tts": {
+      "info": {
+        "name": "Piper TTS",
+        "version": "1.0.0",
+        "description": "高质量本地TTS引擎",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN",
+          "en-US"
+        ],
+        "supported_formats": [
+          "wav",
+          "mp3"
+        ],
+        "is_online": false,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "en_GB-alan-medium",
+        "rate": 1.4,
+        "pitch": 0,
+        "volume": 1.0,
+        "language": "en-US",
+        "output_format": "wav",
+        "extra_params": {
+          "voice_name": "zh_CN-huayan-medium",
+          "rate": 1.42,
+          "volume": 1.0,
+          "noise_scale": 1.0,
+          "noise_w_scale": 1.0,
+          "length_scale": 1.0,
+          "normalize_audio": true,
+          "enable_caching": true,
+          "max_cache_size": 10,
+          "streaming_chunk_size": 1024
+        }
+      },
+      "status": {
+        "status": "available",
+        "last_check": "",
+        "error_message": "Piper TTS可用",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-25T20:14:52.327498"
+    },
+    "pyttsx3": {
+      "info": {
+        "name": "pyttsx3",
+        "version": "1.0.0",
+        "description": "跨平台系统TTS引擎",
+        "author": "TTS开发团队",
+        "website": "",
+        "license": "",
+        "supported_languages": [
+          "zh-CN",
+          "en-US"
+        ],
+        "supported_formats": [
+          "wav"
+        ],
+        "is_online": false,
+        "requires_auth": false
+      },
+      "parameters": {
+        "voice_name": "TTS_MS_EN-US_ZIRA_11.0",
+        "rate": 1.0,
+        "pitch": 0,
+        "volume": 0.8,
+        "language": "zh-CN",
+        "output_format": "wav",
+        "extra_params": {
+          "voice_name": "TTS_MS_ZH-CN_HUIHUI_11.0",
+          "use_sapi": true,
+          "debug_mode": false
+        }
+      },
+      "status": {
+        "status": "available",
+        "last_check": "",
+        "error_message": "pyttsx3可用",
+        "available_voices": [],
+        "performance_metrics": {}
+      },
+      "config_version": "1.0.0",
+      "enabled": true,
+      "priority": 0,
+      "created_at": "2025-09-22T23:11:49.523813",
+      "updated_at": "2025-09-25T21:00:29.264623"
+    }
+  }
+}

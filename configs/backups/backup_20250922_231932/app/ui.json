@@ -1,0 +1,12 @@
+{
+  "theme": "light",
+  "language": "zh-CN",
+  "window_width": 1400,
+  "window_height": 900,
+  "window_x": 100,
+  "window_y": 100,
+  "font_size": 12,
+  "font_family": "Microsoft YaHei",
+  "auto_save": true,
+  "auto_save_interval": 300
+}

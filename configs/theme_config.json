@@ -1,0 +1,71 @@
+{
+  "current_theme": "purple",
+  "theme_config_file": "configs/dicts/UI_theme_prepared.json",
+  "available_themes": [
+    "light",
+    "dark",
+    "blue",
+    "green",
+    "purple",
+    "red",
+    "gray",
+    "auto"
+  ],
+  "custom_theme": {
+    "enabled": true,
+    "colors": {
+      "tab_text": "#2b09d9"
+    },
+    "fonts": {
+      "size": "small",
+      "weight": "normal"
+    }
+  },
+  "theme_info": {
+    "light": {
+      "name": "浅色主题",
+      "description": "经典的浅色界面，适合日间使用"
+    },
+    "dark": {
+      "name": "深色主题",
+      "description": "护眼的深色界面，适合夜间使用"
+    },
+    "blue": {
+      "name": "蓝色主题",
+      "description": "清新的蓝色界面，商务风格"
+    },
+    "green": {
+      "name": "绿色主题",
+      "description": "自然的绿色界面，清新风格"
+    },
+    "purple": {
+      "name": "紫色主题",
+      "description": "优雅的紫色界面，创意风格"
+    },
+    "red": {
+      "name": "红色主题",
+      "description": "热情的红色界面，活力风格"
+    },
+    "gray": {
+      "name": "灰色主题",
+      "description": "专业的灰色界面，商务风格"
+    },
+    "auto": {
+      "name": "自动主题",
+      "description": "跟随系统主题设置"
+    }
+  },
+  "font_options": {
+    "sizes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "weights": [
+      "normal",
+      "bold"
+    ]
+  },
+  "version": "2.0.0",
+  "last_updated": "2024-12-19"
+}

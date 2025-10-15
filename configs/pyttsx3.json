@@ -1,0 +1,14 @@
+{
+  "engine": "pyttsx3",
+  "voice_name": "TTS_MS_EN-US_ZIRA_11.0",
+  "rate": 1.0,
+  "pitch": 0,
+  "volume": 0.8,
+  "language": "zh-CN",
+  "output_format": "wav",
+  "extra_params": {
+    "voice_name": "TTS_MS_ZH-CN_HUIHUI_11.0",
+    "use_sapi": true,
+    "debug_mode": false
+  }
+}

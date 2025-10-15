@@ -1,0 +1,61 @@
+{
+  "general": {
+    "window_width": 1200,
+    "window_height": 800,
+    "window_x": 100,
+    "window_y": 100,
+    "theme": "purple",
+    "language": 0
+  },
+  "files": {
+    "default_input_dir": "./input",
+    "default_output_dir": "./output",
+    "auto_save": true,
+    "auto_save_interval": 300
+  },
+  "tts": {
+    "default_engine": "edge_tts",
+    "default_voice": "zh-CN-XiaoxiaoNeural",
+    "default_rate": 1.0,
+    "default_pitch": 0.0,
+    "default_volume": 1.0
+  },
+  "advanced": {
+    "max_concurrent_tasks": 2,
+    "memory_limit_mb": 1024,
+    "enable_hardware_acceleration": false,
+    "debug_mode": false,
+    "log_level": "ERROR"
+  },
+  "language": {
+    "current_language": "ja-JP",
+    "supported_languages": [
+      "zh-CN",
+      "en-US",
+      "ja-JP"
+    ],
+    "language_info": {
+      "zh-CN": {
+        "name": "简体中文",
+        "description": "中文界面",
+        "ui_config_file": "UI_zh.json",
+        "locale": "zh_CN"
+      },
+      "en-US": {
+        "name": "English",
+        "description": "English Interface",
+        "ui_config_file": "UI_en.json",
+        "locale": "en_US"
+      },
+      "ja-JP": {
+        "name": "日本語",
+        "description": "日本語インターフェース",
+        "ui_config_file": "UI_jp.json",
+        "locale": "ja_JP"
+      }
+    },
+    "ui_config_path": "configs/dicts/",
+    "default_language": "zh-CN",
+    "fallback_language": "zh-CN"
+  }
+}

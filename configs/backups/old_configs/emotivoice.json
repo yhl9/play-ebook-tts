@@ -1,0 +1,106 @@
+{
+  "engine": "emotivoice",
+  "voice_name": "8051",
+  "rate": 1.0,
+  "pitch": 0,
+  "volume": 1.0,
+  "language": "zh-CN",
+  "output_format": "wav",
+  "emotion": "自然",
+  "extra_params": {
+    "api_base": "http://localhost:8000",
+    "api_endpoint": "/v1/audio/speech",
+    "timeout": 30,
+    "max_retries": 3,
+    "retry_delay": 1.0,
+    "supported_emotions": [
+      "开心",
+      "兴奋", 
+      "平静",
+      "悲伤",
+      "生气",
+      "自然",
+      "Happy",
+      "Excited",
+      "Calm",
+      "Sad",
+      "Angry",
+      "Natural"
+    ],
+    "voice_settings": {
+      "8051": {
+        "name": "EmotiVoice-8051",
+        "language": "zh-CN",
+        "gender": "female",
+        "description": "EmotiVoice默认女性声音",
+        "emotions": [
+          "开心",
+          "兴奋",
+          "平静", 
+          "悲伤",
+          "生气",
+          "自然",
+          "Happy",
+          "Excited",
+          "Calm",
+          "Sad",
+          "Angry",
+          "Natural"
+        ]
+      }
+    },
+    "synthesis_config": {
+      "rate_range": [0.5, 2.0],
+      "volume_range": [0.1, 2.0],
+      "emotion_weights": {
+        "开心": 1.0,
+        "兴奋": 1.2,
+        "平静": 0.8,
+        "悲伤": 0.6,
+        "生气": 1.1,
+        "自然": 1.0
+      },
+      "default_emotion": "自然",
+      "emotion_mapping": {
+        "happy": "开心",
+        "excited": "兴奋",
+        "calm": "平静",
+        "sad": "悲伤",
+        "angry": "生气",
+        "natural": "自然"
+      }
+    },
+    "api_config": {
+      "request_timeout": 30,
+      "connection_timeout": 5,
+      "max_content_length": 10485760,
+      "supported_formats": ["wav", "mp3", "ogg"],
+      "default_format": "wav",
+      "chunk_size": 1024,
+      "streaming": false
+    },
+    "performance": {
+      "enable_caching": true,
+      "cache_duration": 3600,
+      "max_cache_size": 100,
+      "preload_voices": false,
+      "concurrent_requests": 3
+    },
+    "error_handling": {
+      "retry_on_failure": true,
+      "max_retries": 3,
+      "retry_delay": 1.0,
+      "fallback_voice": "8051",
+      "fallback_emotion": "自然",
+      "log_errors": true
+    },
+    "quality_settings": {
+      "sample_rate": 22050,
+      "bit_depth": 16,
+      "channels": 1,
+      "normalize_audio": true,
+      "noise_reduction": false,
+      "audio_enhancement": false
+    }
+  }
+}

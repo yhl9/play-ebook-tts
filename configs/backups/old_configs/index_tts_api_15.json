@@ -1,0 +1,19 @@
+{
+  "engine": "index_tts_api_15",
+  "voice_name": "zh-kangHuiRead",
+  "rate": 1.0,
+  "pitch": 10,
+  "volume": 0.8,
+  "language": "zh-CN",
+  "output_format": "wav",
+  "extra_params": {
+    "voice_name": "zh-kangHuiRead",
+    "prompt_audio": "resources/audio\\index-tts-zh-kangHuiRead.mp3",
+    "infer_mode": "普通推理",
+    "temperature": 1.01,
+    "top_p": 0.8,
+    "top_k": 30,
+    "repetition_penalty": 10.0,
+    "max_mel_tokens": 600
+  }
+}

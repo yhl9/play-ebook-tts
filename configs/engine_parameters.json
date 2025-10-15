@@ -1,0 +1,143 @@
+{
+  "engines": {
+    "pyttsx3": {
+      "name": "pyttsx3",
+      "description": "Python TTS库",
+      "groups": {
+        "basic": {
+          "title": "基本设置",
+          "parameters": {
+            "voice_name": {
+              "type": "combo",
+              "label": "语音",
+              "required": true,
+              "source": "voices",
+              "description": "选择要使用的语音"
+            }
+          }
+        },
+        "advanced": {
+          "title": "高级设置",
+          "parameters": {
+            "use_sapi": {
+              "type": "checkbox",
+              "label": "使用SAPI",
+              "default": true,
+              "description": "在Windows上使用SAPI语音引擎"
+            },
+            "debug_mode": {
+              "type": "checkbox",
+              "label": "调试模式",
+              "default": false,
+              "description": "启用pyttsx3调试输出"
+            }
+          }
+        }
+      }
+    },
+    "piper_tts": {
+      "name": "Piper TTS",
+      "description": "Piper TTS本地语音合成引擎",
+      "groups": {
+        "basic": {
+          "title": "基本设置",
+          "parameters": {
+            "voice_name": {
+              "type": "combo",
+              "label": "语音模型",
+              "required": true,
+              "source": "voices",
+              "description": "选择要使用的语音模型"
+            },
+            "rate": {
+              "type": "slider",
+              "label": "语速",
+              "min": 0.5,
+              "max": 2.0,
+              "default": 1.0,
+              "step": 0.1,
+              "unit": "倍速",
+              "description": "控制语音播放速度"
+            },
+            "volume": {
+              "type": "slider",
+              "label": "音量",
+              "min": 0.0,
+              "max": 1.0,
+              "default": 1.0,
+              "step": 0.1,
+              "unit": "",
+              "description": "控制语音音量大小"
+            }
+          }
+        },
+        "advanced": {
+          "title": "高级参数",
+          "parameters": {
+            "noise_scale": {
+              "type": "slider",
+              "label": "音频变化",
+              "min": 0.0,
+              "max": 2.0,
+              "default": 1.0,
+              "step": 0.1,
+              "description": "控制音频的变化程度"
+            },
+            "noise_w_scale": {
+              "type": "slider",
+              "label": "说话变化",
+              "min": 0.0,
+              "max": 2.0,
+              "default": 1.0,
+              "step": 0.1,
+              "description": "控制说话方式的变化程度"
+            },
+            "length_scale": {
+              "type": "slider",
+              "label": "长度缩放",
+              "min": 0.5,
+              "max": 2.0,
+              "default": 1.0,
+              "step": 0.1,
+              "description": "控制语音长度的缩放比例"
+            },
+            "normalize_audio": {
+              "type": "checkbox",
+              "label": "标准化音频",
+              "default": true,
+              "description": "是否对生成的音频进行标准化处理"
+            }
+          }
+        },
+        "performance": {
+          "title": "性能设置",
+          "parameters": {
+            "enable_caching": {
+              "type": "checkbox",
+              "label": "启用缓存",
+              "default": true,
+              "description": "是否启用模型缓存以提高性能"
+            },
+            "max_cache_size": {
+              "type": "spinbox",
+              "label": "最大缓存数",
+              "min": 1,
+              "max": 20,
+              "default": 10,
+              "description": "最大缓存的模型数量"
+            },
+            "streaming_chunk_size": {
+              "type": "spinbox",
+              "label": "流式块大小",
+              "min": 512,
+              "max": 4096,
+              "default": 1024,
+              "step": 256,
+              "description": "流式处理时的块大小"
+            }
+          }
+        }
+      }
+    }
+  }
+}

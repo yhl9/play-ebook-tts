@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "version": "7.2.3",
+    "source": "Microsoft Edge TTS",
+    "total_languages": 142,
+    "last_updated": "2025-01-27",
+    "description": "Edge TTS 支持的语言列表"
+  },
+  "languages": {
+    "af-ZA": {
+      "name": "南非荷兰语",
+      "english_name": "af-ZA",
+      "voices_count": 2,
+      "voices": [
+        "af-ZA-AdriNeural",
+        "af-ZA-WillemNeural"
+      ]
+    },
+    "am-ET": {
+      "name": "阿姆哈拉语",
+      "english_name": "am-ET",
+      "voices_count": 2,
+      "voices": [
+        "am-ET-AmehaNeural",
+        "am-ET-MekdesNeural"
+      ]
+    },
+    "ar-AE": {
+      "name": "阿拉伯语（阿联酋）",
+      "english_name": "ar-AE",
+      "voices_count": 2,
+      "voices": [
+        "ar-AE-FatimaNeural",
+        "ar-AE-HamdanNeural"
+      ]
+    },
+    "ar-BH": {
+      "name": "阿拉伯语（巴林）",
+      "english_name": "ar-BH",
+      "voices_count": 2,
+      "voices": [
+        "ar-BH-AliNeural",
+        "ar-BH-LailaNeural"
+      ]
+    },
+    "ar-DZ": {
+      "name": "阿拉伯语（阿尔及利亚）",
+      "english_name": "ar-DZ",
+      "voices_count": 2,
+      "voices": [
+        "ar-DZ-AminaNeural",
+        "ar-DZ-IsmaelNeural"
+      ]
+    },
+    "ar-EG": {
+      "name": "阿拉伯语（埃及）",
+      "english_name": "ar-EG",
+      "voices_count": 2,
+      "voices": [
+        "ar-EG-SalmaNeural",
+        "ar-EG-ShakirNeural"
+      ]
+    },
+    "ar-IQ": {
+      "name": "阿拉伯语（伊拉克）",
+      "english_name": "ar-IQ",
+      "voices_count": 2,
+      "voices": [
+        "ar-IQ-BasselNeural",
+        "ar-IQ-RanaNeural"
+      ]
+    },
+    "ar-JO": {
+      "name": "阿拉伯语（约旦）",
+      "english_name": "ar-JO",
+      "voices_count": 2,
+      "voices": [
+        "ar-JO-SanaNeural",
+        "ar-JO-TaimNeural"
+      ]
+    },
+    "ar-KW": {
+      "name": "阿拉伯语（科威特）",
+      "english_name": "ar-KW",
+      "voices_count": 2,
+      "voices": [
+        "ar-KW-FahedNeural",
+        "ar-KW-NouraNeural"
+      ]
+    },
+    "ar-LB": {
+      "name": "阿拉伯语（黎巴嫩）",
+      "english_name": "ar-LB",
+      "voices_count": 2,
+      "voices": [
+        "ar-LB-LaylaNeural",
+        "ar-LB-RamiNeural"
+      ]
+    },
+    "ar-LY": {
+      "name": "阿拉伯语（利比亚）",
+      "english_name": "ar-LY",
+      "voices_count": 2,
+      "voices": [
+        "ar-LY-ImanNeural",
+        "ar-LY-OmarNeural"
+      ]
+    },
+    "ar-MA": {
+      "name": "阿拉伯语（摩洛哥）",
+      "english_name": "ar-MA",
+      "voices_count": 2,
+      "voices": [
+        "ar-MA-JamalNeural",
+        "ar-MA-MounaNeural"
+      ]
+    },
+    "ar-OM": {
+      "name": "阿拉伯语（阿曼）",
+      "english_name": "ar-OM",
+      "voices_count": 2,
+      "voices": [
+        "ar-OM-AbdullahNeural",
+        "ar-OM-AyshaNeural"
+      ]
+    },
+    "ar-QA": {
+      "name": "阿拉伯语（卡塔尔）",
+      "english_name": "ar-QA",
+      "voices_count": 2,
+      "voices": [
+        "ar-QA-AmalNeural",
+        "ar-QA-MoazNeural"
+      ]
+    },
+    "ar-SA": {
+      "name": "阿拉伯语（沙特）",
+      "english_name": "ar-SA",
+      "voices_count": 2,
+      "voices": [
+        "ar-SA-HamedNeural",
+        "ar-SA-ZariyahNeural"
+      ]
+    },
+    "ar-SY": {
+      "name": "阿拉伯语（叙利亚）",
+      "english_name": "ar-SY",
+      "voices_count": 2,
+      "voices": [
+        "ar-SY-AmanyNeural",
+        "ar-SY-LaithNeural"
+      ]
+    },
+    "ar-TN": {
+      "name": "阿拉伯语（突尼斯）",
+      "english_name": "ar-TN",
+      "voices_count": 2,
+      "voices": [
+        "ar-TN-HediNeural",
+        "ar-TN-ReemNeural"
+      ]
+    },
+    "ar-YE": {
+      "name": "阿拉伯语（也门）",
+      "english_name": "ar-YE",
+      "voices_count": 2,
+      "voices": [
+        "ar-YE-MaryamNeural",
+        "ar-YE-SalehNeural"
+      ]
+    },
+    "as-IN": {
+      "name": "阿萨姆语",
+      "english_name": "as-IN",
+      "voices_count": 2,
+      "voices": [
+        "as-IN-PriyomNeural",
+        "as-IN-YashicaNeural"
+      ]
+    },
+    "az-AZ": {
+      "name": "阿塞拜疆语",
+      "english_name": "az-AZ",
+      "voices_count": 2,
+      "voices": [
+        "az-AZ-BabekNeural",
+        "az-AZ-BanuNeural"
+      ]
+    },
+    "bg-BG": {
+      "name": "保加利亚语",
+      "english_name": "bg-BG",
+      "voices_count": 2,
+      "voices": [
+        "bg-BG-BorislavNeural",
+        "bg-BG-KalinaNeural"
+      ]
+    },
+    "bn-BD": {
+      "name": "孟加拉语（孟加拉国）",
+      "english_name": "bn-BD",
+      "voices_count": 2,
+      "voices": [
+        "bn-BD-NabanitaNeural",
+        "bn-BD-PradeepNeural"
+      ]
+    },
+    "bn-IN": {
+      "name": "孟加拉语（印度）",
+      "english_name": "bn-IN",
+      "voices_count": 2,
+      "voices": [
+        "bn-IN-BashkarNeural",
+        "bn-IN-TanishaaNeural"
+      ]
+    },
+    "bs-BA": {
+      "name": "波斯尼亚语",
+      "english_name": "bs-BA",
+      "voices_count": 2,
+      "voices": [
+        "bs-BA-GoranNeural",
+        "bs-BA-VesnaNeural"
+      ]
+    },
+    "ca-ES": {
+      "name": "加泰罗尼亚语",
+      "english_name": "ca-ES",
+      "voices_count": 3,
+      "voices": [
+        "ca-ES-AlbaNeural",
+        "ca-ES-EnricNeural",
+        "ca-ES-JoanaNeural"
+      ]
+    },
+    "cs-CZ": {
+      "name": "捷克语",
+      "english_name": "cs-CZ",
+      "voices_count": 2,
+      "voices": [
+        "cs-CZ-AntoninNeural",
+        "cs-CZ-VlastaNeural"
+      ]
+    },
+    "cy-GB": {
+      "name": "威尔士语",
+      "english_name": "cy-GB",
+      "voices_count": 2,
+      "voices": [
+        "cy-GB-AledNeural",
+        "cy-GB-NiaNeural"
+      ]
+    },
+    "da-DK": {
+      "name": "丹麦语",
+      "english_name": "da-DK",
+      "voices_count": 2,
+      "voices": [
+        "da-DK-ChristelNeural",
+        "da-DK-JeppeNeural"
+      ]
+    },
+    "de-AT": {
+      "name": "德语（奥地利）",
+      "english_name": "de-AT",
+      "voices_count": 2,
+      "voices": [
+        "de-AT-IngridNeural",
+        "de-AT-JonasNeural"
+      ]
+    },
+    "de-CH": {
+      "name": "德语（瑞士）",
+      "english_name": "de-CH",
+      "voices_count": 2,
+      "voices": [
+        "de-CH-JanNeural",
+        "de-CH-LeniNeural"
+      ]
+    },
+    "de-DE": {
+      "name": "德语（德国）",
+      "english_name": "de-DE",
+      "voices_count": 17,
+      "voices": [
+        "de-DE-AmalaNeural",
+        "de-DE-BerndNeural",
+        "de-DE-ChristophNeural",
+        "de-DE-ConradNeural",
+        "de-DE-ElkeNeural",
+        "de-DE-FlorianMultilingualNeural",
+        "de-DE-GiselaNeural",
+        "de-DE-KasperNeural",
+        "de-DE-KatjaNeural",
+        "de-DE-KillianNeural",
+        "de-DE-KlarissaNeural",
+        "de-DE-KlausNeural",
+        "de-DE-LouisaNeural",
+        "de-DE-MajaNeural",
+        "de-DE-RalfNeural",
+        "de-DE-SeraphinaMultilingualNeural",
+        "de-DE-TanjaNeural"
+      ]
+    },
+    "el-GR": {
+      "name": "希腊语",
+      "english_name": "el-GR",
+      "voices_count": 2,
+      "voices": [
+        "el-GR-AthinaNeural",
+        "el-GR-NestorasNeural"
+      ]
+    },
+    "en-AU": {
+      "name": "英语（澳大利亚）",
+      "english_name": "en-AU",
+      "voices_count": 15,
+      "voices": [
+        "en-AU-AnnetteNeural",
+        "en-AU-CarlyNeural",
+        "en-AU-DarrenNeural",
+        "en-AU-DuncanNeural",
+        "en-AU-ElsieNeural",
+        "en-AU-FreyaNeural",
+        "en-AU-JoanneNeural",
+        "en-AU-KenNeural",
+        "en-AU-KimNeural",
+        "en-AU-NatashaNeural",
+        "en-AU-NeilNeural",
+        "en-AU-TimNeural",
+        "en-AU-TinaNeural",
+        "en-AU-WilliamMultilingualNeural",
+        "en-AU-WilliamNeural"
+      ]
+    },
+    "en-CA": {
+      "name": "英语（加拿大）",
+      "english_name": "en-CA",
+      "voices_count": 2,
+      "voices": [
+        "en-CA-ClaraNeural",
+        "en-CA-LiamNeural"
+      ]
+    },
+    "en-GB": {
+      "name": "英语（英国）",
+      "english_name": "en-GB",
+      "voices_count": 17,
+      "voices": [
+        "en-GB-AbbiNeural",
+        "en-GB-AdaMultilingualNeural",
+        "en-GB-AlfieNeural",
+        "en-GB-BellaNeural",
+        "en-GB-ElliotNeural",
+        "en-GB-EthanNeural",
+        "en-GB-HollieNeural",
+        "en-GB-LibbyNeural",
+        "en-GB-MaisieNeural",
+        "en-GB-MiaNeural",
+        "en-GB-NoahNeural",
+        "en-GB-OliverNeural",
+        "en-GB-OliviaNeural",
+        "en-GB-OllieMultilingualNeural",
+        "en-GB-RyanNeural",
+        "en-GB-SoniaNeural",
+        "en-GB-ThomasNeural"
+      ]
+    },
+    "en-HK": {
+      "name": "英语（香港）",
+      "english_name": "en-HK",
+      "voices_count": 2,
+      "voices": [
+        "en-HK-SamNeural",
+        "en-HK-YanNeural"
+      ]
+    },
+    "en-IE": {
+      "name": "英语（爱尔兰）",
+      "english_name": "en-IE",
+      "voices_count": 2,
+      "voices": [
+        "en-IE-ConnorNeural",
+        "en-IE-EmilyNeural"
+      ]
+    },
+    "en-IN": {
+      "name": "英语（印度）",
+      "english_name": "en-IN",
+      "voices_count": 14,
+      "voices": [
+        "en-IN-AaravNeural",
+        "en-IN-AartiIndicNeural",
+        "en-IN-AartiNeural",
+        "en-IN-AashiNeural",
+        "en-IN-AnanyaNeural",
+        "en-IN-ArjunIndicNeural",
+        "en-IN-ArjunNeural",
+        "en-IN-KavyaNeural",
+        "en-IN-KunalNeural",
+        "en-IN-NeerjaIndicNeural",
+        "en-IN-NeerjaNeural",
+        "en-IN-PrabhatIndicNeural",
+        "en-IN-PrabhatNeural",
+        "en-IN-RehaanNeural"
+      ]
+    },
+    "en-KE": {
+      "name": "英语（肯尼亚）",
+      "english_name": "en-KE",
+      "voices_count": 2,
+      "voices": [
+        "en-KE-AsiliaNeural",
+        "en-KE-ChilembaNeural"
+      ]
+    },
+    "en-NG": {
+      "name": "英语（尼日利亚）",
+      "english_name": "en-NG",
+      "voices_count": 2,
+      "voices": [
+        "en-NG-AbeoNeural",
+        "en-NG-EzinneNeural"
+      ]
+    },
+    "en-NZ": {
+      "name": "英语（新西兰）",
+      "english_name": "en-NZ",
+      "voices_count": 2,
+      "voices": [
+        "en-NZ-MitchellNeural",
+        "en-NZ-MollyNeural"
+      ]
+    },
+    "en-PH": {
+      "name": "英语（菲律宾）",
+      "english_name": "en-PH",
+      "voices_count": 2,
+      "voices": [
+        "en-PH-JamesNeural",
+        "en-PH-RosaNeural"
+      ]
+    },
+    "en-SG": {
+      "name": "英语（新加坡）",
+      "english_name": "en-SG",
+      "voices_count": 2,
+      "voices": [
+        "en-SG-LunaNeural",
+        "en-SG-WayneNeural"
+      ]
+    },
+    "en-TZ": {
+      "name": "英语（坦桑尼亚）",
+      "english_name": "en-TZ",
+      "voices_count": 2,
+      "voices": [
+        "en-TZ-ElimuNeural",
+        "en-TZ-ImaniNeural"
+      ]
+    },
+    "en-US": {
+      "name": "英语（美国）",
+      "english_name": "en-US",
+      "voices_count": 55,
+      "voices": [
+        "en-US-AdamMultilingualNeural",
+        "en-US-AlloyTurboMultilingualNeural",
+        "en-US-AmandaMultilingualNeural",
+        "en-US-AmberNeural",
+        "en-US-AnaNeural",
+        "en-US-AndrewMultilingualNeural",
+        "en-US-AndrewNeural",
+        "en-US-AriaNeural",
+        "en-US-AshleyNeural",
+        "en-US-AvaMultilingualNeural",
+        "en-US-AvaNeural",
+        "en-US-BrandonMultilingualNeural",
+        "en-US-BrandonNeural",
+        "en-US-BrianMultilingualNeural",
+        "en-US-BrianNeural",
+        "en-US-ChristopherMultilingualNeural",
+        "en-US-ChristopherNeural",
+        "en-US-CoraMultilingualNeural",
+        "en-US-CoraNeural",
+        "en-US-DavisMultilingualNeural",
+        "en-US-DavisNeural",
+        "en-US-DerekMultilingualNeural",
+        "en-US-DustinMultilingualNeural",
+        "en-US-EchoTurboMultilingualNeural",
+        "en-US-ElizabethNeural",
+        "en-US-EmmaMultilingualNeural",
+        "en-US-EmmaNeural",
+        "en-US-EricNeural",
+        "en-US-FableTurboMultilingualNeural",
+        "en-US-GuyNeural",
+        "en-US-JacobNeural",
+        "en-US-JaneNeural",
+        "en-US-JasonNeural",
+        "en-US-JennyMultilingualNeural",
+        "en-US-JennyNeural",
+        "en-US-KaiNeural",
+        "en-US-LewisMultilingualNeural",
+        "en-US-LolaMultilingualNeural",
+        "en-US-LunaNeural",
+        "en-US-MichelleNeural",
+        "en-US-MonicaNeural",
+        "en-US-NancyMultilingualNeural",
+        "en-US-NancyNeural",
+        "en-US-NovaTurboMultilingualNeural",
+        "en-US-OnyxTurboMultilingualNeural",
+        "en-US-PhoebeMultilingualNeural",
+        "en-US-RogerNeural",
+        "en-US-RyanMultilingualNeural",
+        "en-US-SamuelMultilingualNeural",
+        "en-US-SaraNeural",
+        "en-US-SerenaMultilingualNeural",
+        "en-US-ShimmerTurboMultilingualNeural",
+        "en-US-SteffanMultilingualNeural",
+        "en-US-SteffanNeural",
+        "en-US-TonyNeural"
+      ]
+    },
+    "en-ZA": {
+      "name": "英语（南非）",
+      "english_name": "en-ZA",
+      "voices_count": 2,
+      "voices": [
+        "en-ZA-LeahNeural",
+        "en-ZA-LukeNeural"
+      ]
+    },
+    "es-AR": {
+      "name": "西班牙语（阿根廷）",
+      "english_name": "es-AR",
+      "voices_count": 2,
+      "voices": [
+        "es-AR-ElenaNeural",
+        "es-AR-TomasNeural"
+      ]
+    },
+    "es-BO": {
+      "name": "西班牙语（玻利维亚）",
+      "english_name": "es-BO",
+      "voices_count": 2,
+      "voices": [
+        "es-BO-MarceloNeural",
+        "es-BO-SofiaNeural"
+      ]
+    },
+    "es-CL": {
+      "name": "西班牙语（智利）",
+      "english_name": "es-CL",
+      "voices_count": 2,
+      "voices": [
+        "es-CL-CatalinaNeural",
+        "es-CL-LorenzoNeural"
+      ]
+    },
+    "es-CO": {
+      "name": "西班牙语（哥伦比亚）",
+      "english_name": "es-CO",
+      "voices_count": 2,
+      "voices": [
+        "es-CO-GonzaloNeural",
+        "es-CO-SalomeNeural"
+      ]
+    },
+    "es-CR": {
+      "name": "西班牙语（哥斯达黎加）",
+      "english_name": "es-CR",
+      "voices_count": 2,
+      "voices": [
+        "es-CR-JuanNeural",
+        "es-CR-MariaNeural"
+      ]
+    },
+    "es-CU": {
+      "name": "西班牙语（古巴）",
+      "english_name": "es-CU",
+      "voices_count": 2,
+      "voices": [
+        "es-CU-BelkysNeural",
+        "es-CU-ManuelNeural"
+      ]
+    },
+    "es-DO": {
+      "name": "西班牙语（多米尼加）",
+      "english_name": "es-DO",
+      "voices_count": 2,
+      "voices": [
+        "es-DO-EmilioNeural",
+        "es-DO-RamonaNeural"
+      ]
+    },
+    "es-EC": {
+      "name": "西班牙语（厄瓜多尔）",
+      "english_name": "es-EC",
+      "voices_count": 2,
+      "voices": [
+        "es-EC-AndreaNeural",
+        "es-EC-LuisNeural"
+      ]
+    },
+    "es-ES": {
+      "name": "西班牙语（西班牙）",
+      "english_name": "es-ES",
+      "voices_count": 20,
+      "voices": [
+        "es-ES-AbrilNeural",
+        "es-ES-AlvaroNeural",
+        "es-ES-ArabellaMultilingualNeural",
+        "es-ES-ArnauNeural",
+        "es-ES-DarioNeural",
+        "es-ES-EliasNeural",
+        "es-ES-ElviraNeural",
+        "es-ES-EstrellaNeural",
+        "es-ES-IreneNeural",
+        "es-ES-IsidoraMultilingualNeural",
+        "es-ES-LaiaNeural",
+        "es-ES-LiaNeural",
+        "es-ES-NilNeural",
+        "es-ES-SaulNeural",
+        "es-ES-TeoNeural",
+        "es-ES-TrianaNeural",
+        "es-ES-TristanMultilingualNeural",
+        "es-ES-VeraNeural",
+        "es-ES-XimenaMultilingualNeural",
+        "es-ES-XimenaNeural"
+      ]
+    },
+    "es-GQ": {
+      "name": "西班牙语（赤道几内亚）",
+      "english_name": "es-GQ",
+      "voices_count": 2,
+      "voices": [
+        "es-GQ-JavierNeural",
+        "es-GQ-TeresaNeural"
+      ]
+    },
+    "es-GT": {
+      "name": "西班牙语（危地马拉）",
+      "english_name": "es-GT",
+      "voices_count": 2,
+      "voices": [
+        "es-GT-AndresNeural",
+        "es-GT-MartaNeural"
+      ]
+    },
+    "es-HN": {
+      "name": "西班牙语（洪都拉斯）",
+      "english_name": "es-HN",
+      "voices_count": 2,
+      "voices": [
+        "es-HN-CarlosNeural",
+        "es-HN-KarlaNeural"
+      ]
+    },
+    "es-MX": {
+      "name": "西班牙语（墨西哥）",
+      "english_name": "es-MX",
+      "voices_count": 17,
+      "voices": [
+        "es-MX-BeatrizNeural",
+        "es-MX-CandelaNeural",
+        "es-MX-CarlotaNeural",
+        "es-MX-CecilioNeural",
+        "es-MX-DaliaMultilingualNeural",
+        "es-MX-DaliaNeural",
+        "es-MX-GerardoNeural",
+        "es-MX-JorgeMultilingualNeural",
+        "es-MX-JorgeNeural",
+        "es-MX-LarissaNeural",
+        "es-MX-LibertoNeural",
+        "es-MX-LucianoNeural",
+        "es-MX-MarinaNeural",
+        "es-MX-NuriaNeural",
+        "es-MX-PelayoNeural",
+        "es-MX-RenataNeural",
+        "es-MX-YagoNeural"
+      ]
+    },
+    "es-NI": {
+      "name": "西班牙语（尼加拉瓜）",
+      "english_name": "es-NI",
+      "voices_count": 2,
+      "voices": [
+        "es-NI-FedericoNeural",
+        "es-NI-YolandaNeural"
+      ]
+    },
+    "es-PA": {
+      "name": "西班牙语（巴拿马）",
+      "english_name": "es-PA",
+      "voices_count": 2,
+      "voices": [
+        "es-PA-MargaritaNeural",
+        "es-PA-RobertoNeural"
+      ]
+    },
+    "es-PE": {
+      "name": "西班牙语（秘鲁）",
+      "english_name": "es-PE",
+      "voices_count": 2,
+      "voices": [
+        "es-PE-AlexNeural",
+        "es-PE-CamilaNeural"
+      ]
+    },
+    "es-PR": {
+      "name": "西班牙语（波多黎各）",
+      "english_name": "es-PR",
+      "voices_count": 2,
+      "voices": [
+        "es-PR-KarinaNeural",
+        "es-PR-VictorNeural"
+      ]
+    },
+    "es-PY": {
+      "name": "西班牙语（巴拉圭）",
+      "english_name": "es-PY",
+      "voices_count": 2,
+      "voices": [
+        "es-PY-MarioNeural",
+        "es-PY-TaniaNeural"
+      ]
+    },
+    "es-SV": {
+      "name": "西班牙语（萨尔瓦多）",
+      "english_name": "es-SV",
+      "voices_count": 2,
+      "voices": [
+        "es-SV-LorenaNeural",
+        "es-SV-RodrigoNeural"
+      ]
+    },
+    "es-US": {
+      "name": "西班牙语（美国）",
+      "english_name": "es-US",
+      "voices_count": 2,
+      "voices": [
+        "es-US-AlonsoNeural",
+        "es-US-PalomaNeural"
+      ]
+    },
+    "es-UY": {
+      "name": "西班牙语（乌拉圭）",
+      "english_name": "es-UY",
+      "voices_count": 2,
+      "voices": [
+        "es-UY-MateoNeural",
+        "es-UY-ValentinaNeural"
+      ]
+    },
+    "es-VE": {
+      "name": "西班牙语（委内瑞拉）",
+      "english_name": "es-VE",
+      "voices_count": 2,
+      "voices": [
+        "es-VE-PaolaNeural",
+        "es-VE-SebastianNeural"
+      ]
+    },
+    "et-EE": {
+      "name": "爱沙尼亚语",
+      "english_name": "et-EE",
+      "voices_count": 2,
+      "voices": [
+        "et-EE-AnuNeural",
+        "et-EE-KertNeural"
+      ]
+    },
+    "eu-ES": {
+      "name": "巴斯克语",
+      "english_name": "eu-ES",
+      "voices_count": 2,
+      "voices": [
+        "eu-ES-AinhoaNeural",
+        "eu-ES-AnderNeural"
+      ]
+    },
+    "fa-IR": {
+      "name": "波斯语",
+      "english_name": "fa-IR",
+      "voices_count": 2,
+      "voices": [
+        "fa-IR-DilaraNeural",
+        "fa-IR-FaridNeural"
+      ]
+    },
+    "fi-FI": {
+      "name": "芬兰语",
+      "english_name": "fi-FI",
+      "voices_count": 3,
+      "voices": [
+        "fi-FI-HarriNeural",
+        "fi-FI-NooraNeural",
+        "fi-FI-SelmaNeural"
+      ]
+    },
+    "fr-BE": {
+      "name": "法语（比利时）",
+      "english_name": "fr-BE",
+      "voices_count": 2,
+      "voices": [
+        "fr-BE-CharlineNeural",
+        "fr-BE-GerardNeural"
+      ]
+    },
+    "fr-CA": {
+      "name": "法语（加拿大）",
+      "english_name": "fr-CA",
+      "voices_count": 4,
+      "voices": [
+        "fr-CA-AntoineNeural",
+        "fr-CA-JeanNeural",
+        "fr-CA-SylvieNeural",
+        "fr-CA-ThierryNeural"
+      ]
+    },
+    "fr-CH": {
+      "name": "法语（瑞士）",
+      "english_name": "fr-CH",
+      "voices_count": 2,
+      "voices": [
+        "fr-CH-ArianeNeural",
+        "fr-CH-FabriceNeural"
+      ]
+    },
+    "fr-FR": {
+      "name": "法语（法国）",
+      "english_name": "fr-FR",
+      "voices_count": 17,
+      "voices": [
+        "fr-FR-AlainNeural",
+        "fr-FR-BrigitteNeural",
+        "fr-FR-CelesteNeural",
+        "fr-FR-ClaudeNeural",
+        "fr-FR-CoralieNeural",
+        "fr-FR-DeniseNeural",
+        "fr-FR-EloiseNeural",
+        "fr-FR-HenriNeural",
+        "fr-FR-JacquelineNeural",
+        "fr-FR-JeromeNeural",
+        "fr-FR-JosephineNeural",
+        "fr-FR-LucienMultilingualNeural",
+        "fr-FR-MauriceNeural",
+        "fr-FR-RemyMultilingualNeural",
+        "fr-FR-VivienneMultilingualNeural",
+        "fr-FR-YvesNeural",
+        "fr-FR-YvetteNeural"
+      ]
+    },
+    "ga-IE": {
+      "name": "爱尔兰语",
+      "english_name": "ga-IE",
+      "voices_count": 2,
+      "voices": [
+        "ga-IE-ColmNeural",
+        "ga-IE-OrlaNeural"
+      ]
+    },
+    "gl-ES": {
+      "name": "加利西亚语",
+      "english_name": "gl-ES",
+      "voices_count": 2,
+      "voices": [
+        "gl-ES-RoiNeural",
+        "gl-ES-SabelaNeural"
+      ]
+    },
+    "gu-IN": {
+      "name": "古吉拉特语",
+      "english_name": "gu-IN",
+      "voices_count": 2,
+      "voices": [
+        "gu-IN-DhwaniNeural",
+        "gu-IN-NiranjanNeural"
+      ]
+    },
+    "he-IL": {
+      "name": "希伯来语",
+      "english_name": "he-IL",
+      "voices_count": 2,
+      "voices": [
+        "he-IL-AvriNeural",
+        "he-IL-HilaNeural"
+      ]
+    },
+    "hi-IN": {
+      "name": "印地语",
+      "english_name": "hi-IN",
+      "voices_count": 9,
+      "voices": [
+        "hi-IN-AaravNeural",
+        "hi-IN-AartiNeural",
+        "hi-IN-AnanyaNeural",
+        "hi-IN-ArjunNeural",
+        "hi-IN-KavyaNeural",
+        "hi-IN-KunalNeural",
+        "hi-IN-MadhurNeural",
+        "hi-IN-RehaanNeural",
+        "hi-IN-SwaraNeural"
+      ]
+    },
+    "hr-HR": {
+      "name": "克罗地亚语",
+      "english_name": "hr-HR",
+      "voices_count": 2,
+      "voices": [
+        "hr-HR-GabrijelaNeural",
+        "hr-HR-SreckoNeural"
+      ]
+    },
+    "hu-HU": {
+      "name": "匈牙利语",
+      "english_name": "hu-HU",
+      "voices_count": 2,
+      "voices": [
+        "hu-HU-NoemiNeural",
+        "hu-HU-TamasNeural"
+      ]
+    },
+    "hy-AM": {
+      "name": "亚美尼亚语",
+      "english_name": "hy-AM",
+      "voices_count": 2,
+      "voices": [
+        "hy-AM-AnahitNeural",
+        "hy-AM-HaykNeural"
+      ]
+    },
+    "id-ID": {
+      "name": "印尼语",
+      "english_name": "id-ID",
+      "voices_count": 2,
+      "voices": [
+        "id-ID-ArdiNeural",
+        "id-ID-GadisNeural"
+      ]
+    },
+    "is-IS": {
+      "name": "冰岛语",
+      "english_name": "is-IS",
+      "voices_count": 2,
+      "voices": [
+        "is-IS-GudrunNeural",
+        "is-IS-GunnarNeural"
+      ]
+    },
+    "it-IT": {
+      "name": "意大利语",
+      "english_name": "it-IT",
+      "voices_count": 20,
+      "voices": [
+        "it-IT-AlessioMultilingualNeural",
+        "it-IT-BenignoNeural",
+        "it-IT-CalimeroNeural",
+        "it-IT-CataldoNeural",
+        "it-IT-DiegoNeural",
+        "it-IT-ElsaNeural",
+        "it-IT-FabiolaNeural",
+        "it-IT-FiammaNeural",
+        "it-IT-GianniNeural",
+        "it-IT-GiuseppeMultilingualNeural",
+        "it-IT-GiuseppeNeural",
+        "it-IT-ImeldaNeural",
+        "it-IT-IrmaNeural",
+        "it-IT-IsabellaMultilingualNeural",
+        "it-IT-IsabellaNeural",
+        "it-IT-LisandroNeural",
+        "it-IT-MarcelloMultilingualNeural",
+        "it-IT-PalmiraNeural",
+        "it-IT-PierinaNeural",
+        "it-IT-RinaldoNeural"
+      ]
+    },
+    "ja-JP": {
+      "name": "日语",
+      "english_name": "ja-JP",
+      "voices_count": 7,
+      "voices": [
+        "ja-JP-AoiNeural",
+        "ja-JP-DaichiNeural",
+        "ja-JP-KeitaNeural",
+        "ja-JP-MayuNeural",
+        "ja-JP-NanamiNeural",
+        "ja-JP-NaokiNeural",
+        "ja-JP-ShioriNeural"
+      ]
+    },
+    "jv-ID": {
+      "name": "爪哇语",
+      "english_name": "jv-ID",
+      "voices_count": 2,
+      "voices": [
+        "jv-ID-DimasNeural",
+        "jv-ID-SitiNeural"
+      ]
+    },
+    "ka-GE": {
+      "name": "格鲁吉亚语",
+      "english_name": "ka-GE",
+      "voices_count": 2,
+      "voices": [
+        "ka-GE-EkaNeural",
+        "ka-GE-GiorgiNeural"
+      ]
+    },
+    "kk-KZ": {
+      "name": "哈萨克语",
+      "english_name": "kk-KZ",
+      "voices_count": 2,
+      "voices": [
+        "kk-KZ-AigulNeural",
+        "kk-KZ-DauletNeural"
+      ]
+    },
+    "km-KH": {
+      "name": "高棉语",
+      "english_name": "km-KH",
+      "voices_count": 2,
+      "voices": [
+        "km-KH-PisethNeural",
+        "km-KH-SreymomNeural"
+      ]
+    },
+    "kn-IN": {
+      "name": "卡纳达语",
+      "english_name": "kn-IN",
+      "voices_count": 2,
+      "voices": [
+        "kn-IN-GaganNeural",
+        "kn-IN-SapnaNeural"
+      ]
+    },
+    "ko-KR": {
+      "name": "韩语",
+      "english_name": "ko-KR",
+      "voices_count": 10,
+      "voices": [
+        "ko-KR-BongJinNeural",
+        "ko-KR-GookMinNeural",
+        "ko-KR-HyunsuMultilingualNeural",
+        "ko-KR-HyunsuNeural",
+        "ko-KR-InJoonNeural",
+        "ko-KR-JiMinNeural",
+        "ko-KR-SeoHyeonNeural",
+        "ko-KR-SoonBokNeural",
+        "ko-KR-SunHiNeural",
+        "ko-KR-YuJinNeural"
+      ]
+    },
+    "lo-LA": {
+      "name": "老挝语",
+      "english_name": "lo-LA",
+      "voices_count": 2,
+      "voices": [
+        "lo-LA-ChanthavongNeural",
+        "lo-LA-KeomanyNeural"
+      ]
+    },
+    "lt-LT": {
+      "name": "立陶宛语",
+      "english_name": "lt-LT",
+      "voices_count": 2,
+      "voices": [
+        "lt-LT-LeonasNeural",
+        "lt-LT-OnaNeural"
+      ]
+    },
+    "lv-LV": {
+      "name": "拉脱维亚语",
+      "english_name": "lv-LV",
+      "voices_count": 2,
+      "voices": [
+        "lv-LV-EveritaNeural",
+        "lv-LV-NilsNeural"
+      ]
+    },
+    "mk-MK": {
+      "name": "马其顿语",
+      "english_name": "mk-MK",
+      "voices_count": 2,
+      "voices": [
+        "mk-MK-AleksandarNeural",
+        "mk-MK-MarijaNeural"
+      ]
+    },
+    "ml-IN": {
+      "name": "马拉雅拉姆语",
+      "english_name": "ml-IN",
+      "voices_count": 2,
+      "voices": [
+        "ml-IN-MidhunNeural",
+        "ml-IN-SobhanaNeural"
+      ]
+    },
+    "mn-MN": {
+      "name": "蒙古语",
+      "english_name": "mn-MN",
+      "voices_count": 2,
+      "voices": [
+        "mn-MN-BataaNeural",
+        "mn-MN-YesuiNeural"
+      ]
+    },
+    "mr-IN": {
+      "name": "马拉地语",
+      "english_name": "mr-IN",
+      "voices_count": 2,
+      "voices": [
+        "mr-IN-AarohiNeural",
+        "mr-IN-ManoharNeural"
+      ]
+    },
+    "ms-MY": {
+      "name": "马来语",
+      "english_name": "ms-MY",
+      "voices_count": 2,
+      "voices": [
+        "ms-MY-OsmanNeural",
+        "ms-MY-YasminNeural"
+      ]
+    },
+    "mt-MT": {
+      "name": "马耳他语",
+      "english_name": "mt-MT",
+      "voices_count": 2,
+      "voices": [
+        "mt-MT-GraceNeural",
+        "mt-MT-JosephNeural"
+      ]
+    },
+    "my-MM": {
+      "name": "缅甸语",
+      "english_name": "my-MM",
+      "voices_count": 2,
+      "voices": [
+        "my-MM-NilarNeural",
+        "my-MM-ThihaNeural"
+      ]
+    },
+    "nb-NO": {
+      "name": "挪威语",
+      "english_name": "nb-NO",
+      "voices_count": 3,
+      "voices": [
+        "nb-NO-FinnNeural",
+        "nb-NO-IselinNeural",
+        "nb-NO-PernilleNeural"
+      ]
+    },
+    "ne-NP": {
+      "name": "尼泊尔语",
+      "english_name": "ne-NP",
+      "voices_count": 2,
+      "voices": [
+        "ne-NP-HemkalaNeural",
+        "ne-NP-SagarNeural"
+      ]
+    },
+    "nl-BE": {
+      "name": "荷兰语（比利时）",
+      "english_name": "nl-BE",
+      "voices_count": 2,
+      "voices": [
+        "nl-BE-ArnaudNeural",
+        "nl-BE-DenaNeural"
+      ]
+    },
+    "nl-NL": {
+      "name": "荷兰语（荷兰）",
+      "english_name": "nl-NL",
+      "voices_count": 3,
+      "voices": [
+        "nl-NL-ColetteNeural",
+        "nl-NL-FennaNeural",
+        "nl-NL-MaartenNeural"
+      ]
+    },
+    "or-IN": {
+      "name": "奥里亚语",
+      "english_name": "or-IN",
+      "voices_count": 2,
+      "voices": [
+        "or-IN-SubhasiniNeural",
+        "or-IN-SukantNeural"
+      ]
+    },
+    "pa-IN": {
+      "name": "旁遮普语",
+      "english_name": "pa-IN",
+      "voices_count": 2,
+      "voices": [
+        "pa-IN-OjasNeural",
+        "pa-IN-VaaniNeural"
+      ]
+    },
+    "pl-PL": {
+      "name": "波兰语",
+      "english_name": "pl-PL",
+      "voices_count": 3,
+      "voices": [
+        "pl-PL-AgnieszkaNeural",
+        "pl-PL-MarekNeural",
+        "pl-PL-ZofiaNeural"
+      ]
+    },
+    "ps-AF": {
+      "name": "普什图语",
+      "english_name": "ps-AF",
+      "voices_count": 2,
+      "voices": [
+        "ps-AF-GulNawazNeural",
+        "ps-AF-LatifaNeural"
+      ]
+    },
+    "pt-BR": {
+      "name": "葡萄牙语（巴西）",
+      "english_name": "pt-BR",
+      "voices_count": 18,
+      "voices": [
+        "pt-BR-AntonioNeural",
+        "pt-BR-BrendaNeural",
+        "pt-BR-DonatoNeural",
+        "pt-BR-ElzaNeural",
+        "pt-BR-FabioNeural",
+        "pt-BR-FranciscaNeural",
+        "pt-BR-GiovannaNeural",
+        "pt-BR-HumbertoNeural",
+        "pt-BR-JulioNeural",
+        "pt-BR-LeilaNeural",
+        "pt-BR-LeticiaNeural",
+        "pt-BR-MacerioMultilingualNeural",
+        "pt-BR-ManuelaNeural",
+        "pt-BR-NicolauNeural",
+        "pt-BR-ThalitaMultilingualNeural",
+        "pt-BR-ThalitaNeural",
+        "pt-BR-ValerioNeural",
+        "pt-BR-YaraNeural"
+      ]
+    },
+    "pt-PT": {
+      "name": "葡萄牙语（葡萄牙）",
+      "english_name": "pt-PT",
+      "voices_count": 3,
+      "voices": [
+        "pt-PT-DuarteNeural",
+        "pt-PT-FernandaNeural",
+        "pt-PT-RaquelNeural"
+      ]
+    },
+    "ro-RO": {
+      "name": "罗马尼亚语",
+      "english_name": "ro-RO",
+      "voices_count": 2,
+      "voices": [
+        "ro-RO-AlinaNeural",
+        "ro-RO-EmilNeural"
+      ]
+    },
+    "ru-RU": {
+      "name": "俄语",
+      "english_name": "ru-RU",
+      "voices_count": 3,
+      "voices": [
+        "ru-RU-DariyaNeural",
+        "ru-RU-DmitryNeural",
+        "ru-RU-SvetlanaNeural"
+      ]
+    },
+    "si-LK": {
+      "name": "僧伽罗语",
+      "english_name": "si-LK",
+      "voices_count": 2,
+      "voices": [
+        "si-LK-SameeraNeural",
+        "si-LK-ThiliniNeural"
+      ]
+    },
+    "sk-SK": {
+      "name": "斯洛伐克语",
+      "english_name": "sk-SK",
+      "voices_count": 2,
+      "voices": [
+        "sk-SK-LukasNeural",
+        "sk-SK-ViktoriaNeural"
+      ]
+    },
+    "sl-SI": {
+      "name": "斯洛文尼亚语",
+      "english_name": "sl-SI",
+      "voices_count": 2,
+      "voices": [
+        "sl-SI-PetraNeural",
+        "sl-SI-RokNeural"
+      ]
+    },
+    "so-SO": {
+      "name": "索马里语",
+      "english_name": "so-SO",
+      "voices_count": 2,
+      "voices": [
+        "so-SO-MuuseNeural",
+        "so-SO-UbaxNeural"
+      ]
+    },
+    "sq-AL": {
+      "name": "阿尔巴尼亚语",
+      "english_name": "sq-AL",
+      "voices_count": 2,
+      "voices": [
+        "sq-AL-AnilaNeural",
+        "sq-AL-IlirNeural"
+      ]
+    },
+    "sr-RS": {
+      "name": "塞尔维亚语（西里尔文）",
+      "english_name": "sr-RS",
+      "voices_count": 2,
+      "voices": [
+        "sr-RS-NicholasNeural",
+        "sr-RS-SophieNeural"
+      ]
+    },
+    "su-ID": {
+      "name": "巽他语",
+      "english_name": "su-ID",
+      "voices_count": 2,
+      "voices": [
+        "su-ID-JajangNeural",
+        "su-ID-TutiNeural"
+      ]
+    },
+    "sv-SE": {
+      "name": "瑞典语",
+      "english_name": "sv-SE",
+      "voices_count": 3,
+      "voices": [
+        "sv-SE-HilleviNeural",
+        "sv-SE-MattiasNeural",
+        "sv-SE-SofieNeural"
+      ]
+    },
+    "sw-KE": {
+      "name": "斯瓦希里语（肯尼亚）",
+      "english_name": "sw-KE",
+      "voices_count": 2,
+      "voices": [
+        "sw-KE-RafikiNeural",
+        "sw-KE-ZuriNeural"
+      ]
+    },
+    "sw-TZ": {
+      "name": "斯瓦希里语（坦桑尼亚）",
+      "english_name": "sw-TZ",
+      "voices_count": 2,
+      "voices": [
+        "sw-TZ-DaudiNeural",
+        "sw-TZ-RehemaNeural"
+      ]
+    },
+    "ta-IN": {
+      "name": "泰米尔语（印度）",
+      "english_name": "ta-IN",
+      "voices_count": 2,
+      "voices": [
+        "ta-IN-PallaviNeural",
+        "ta-IN-ValluvarNeural"
+      ]
+    },
+    "ta-LK": {
+      "name": "泰米尔语（斯里兰卡）",
+      "english_name": "ta-LK",
+      "voices_count": 2,
+      "voices": [
+        "ta-LK-KumarNeural",
+        "ta-LK-SaranyaNeural"
+      ]
+    },
+    "ta-MY": {
+      "name": "泰米尔语（马来西亚）",
+      "english_name": "ta-MY",
+      "voices_count": 2,
+      "voices": [
+        "ta-MY-KaniNeural",
+        "ta-MY-SuryaNeural"
+      ]
+    },
+    "ta-SG": {
+      "name": "泰米尔语（新加坡）",
+      "english_name": "ta-SG",
+      "voices_count": 2,
+      "voices": [
+        "ta-SG-AnbuNeural",
+        "ta-SG-VenbaNeural"
+      ]
+    },
+    "te-IN": {
+      "name": "泰卢固语",
+      "english_name": "te-IN",
+      "voices_count": 2,
+      "voices": [
+        "te-IN-MohanNeural",
+        "te-IN-ShrutiNeural"
+      ]
+    },
+    "th-TH": {
+      "name": "泰语",
+      "english_name": "th-TH",
+      "voices_count": 3,
+      "voices": [
+        "th-TH-AcharaNeural",
+        "th-TH-NiwatNeural",
+        "th-TH-PremwadeeNeural"
+      ]
+    },
+    "tr-TR": {
+      "name": "土耳其语",
+      "english_name": "tr-TR",
+      "voices_count": 2,
+      "voices": [
+        "tr-TR-AhmetNeural",
+        "tr-TR-EmelNeural"
+      ]
+    },
+    "uk-UA": {
+      "name": "乌克兰语",
+      "english_name": "uk-UA",
+      "voices_count": 2,
+      "voices": [
+        "uk-UA-OstapNeural",
+        "uk-UA-PolinaNeural"
+      ]
+    },
+    "ur-IN": {
+      "name": "乌尔都语（印度）",
+      "english_name": "ur-IN",
+      "voices_count": 2,
+      "voices": [
+        "ur-IN-GulNeural",
+        "ur-IN-SalmanNeural"
+      ]
+    },
+    "ur-PK": {
+      "name": "乌尔都语（巴基斯坦）",
+      "english_name": "ur-PK",
+      "voices_count": 2,
+      "voices": [
+        "ur-PK-AsadNeural",
+        "ur-PK-UzmaNeural"
+      ]
+    },
+    "uz-UZ": {
+      "name": "乌兹别克语",
+      "english_name": "uz-UZ",
+      "voices_count": 2,
+      "voices": [
+        "uz-UZ-MadinaNeural",
+        "uz-UZ-SardorNeural"
+      ]
+    },
+    "vi-VN": {
+      "name": "越南语",
+      "english_name": "vi-VN",
+      "voices_count": 2,
+      "voices": [
+        "vi-VN-HoaiMyNeural",
+        "vi-VN-NamMinhNeural"
+      ]
+    },
+    "zh-CN": {
+      "name": "中文（普通话）",
+      "english_name": "zh-CN",
+      "voices_count": 33,
+      "voices": [
+        "zh-CN-XiaochenMultilingualNeural",
+        "zh-CN-XiaochenNeural",
+        "zh-CN-XiaohanNeural",
+        "zh-CN-XiaomengNeural",
+        "zh-CN-XiaomoNeural",
+        "zh-CN-XiaoqiuNeural",
+        "zh-CN-XiaorouNeural",
+        "zh-CN-XiaoruiNeural",
+        "zh-CN-XiaoshuangNeural",
+        "zh-CN-XiaoxiaoDialectsNeural",
+        "zh-CN-XiaoxiaoMultilingualNeural",
+        "zh-CN-XiaoxiaoNeural",
+        "zh-CN-XiaoyanNeural",
+        "zh-CN-XiaoyiNeural",
+        "zh-CN-XiaoyouNeural",
+        "zh-CN-XiaoyuMultilingualNeural",
+        "zh-CN-XiaozhenNeural",
+        "zh-CN-YunfengNeural",
+        "zh-CN-YunhaoNeural",
+        "zh-CN-YunjianNeural",
+        "zh-CN-YunjieNeural",
+        "zh-CN-YunxiNeural",
+        "zh-CN-YunxiaNeural",
+        "zh-CN-YunxiaoMultilingualNeural",
+        "zh-CN-YunyangNeural",
+        "zh-CN-YunyeNeural",
+        "zh-CN-YunyiMultilingualNeural",
+        "zh-CN-YunzeNeural",
+        "zh-CN-henan-YundengNeural",
+        "zh-CN-liaoning-XiaobeiNeural",
+        "zh-CN-shaanxi-XiaoniNeural",
+        "zh-CN-shandong-YunxiangNeural",
+        "zh-CN-sichuan-YunxiNeural"
+      ]
+    },
+    "zh-HK": {
+      "name": "中文（香港）",
+      "english_name": "zh-HK",
+      "voices_count": 3,
+      "voices": [
+        "zh-HK-HiuGaaiNeural",
+        "zh-HK-HiuMaanNeural",
+        "zh-HK-WanLungNeural"
+      ]
+    },
+    "zh-TW": {
+      "name": "中文（台湾）",
+      "english_name": "zh-TW",
+      "voices_count": 3,
+      "voices": [
+        "zh-TW-HsiaoChenNeural",
+        "zh-TW-HsiaoYuNeural",
+        "zh-TW-YunJheNeural"
+      ]
+    },
+    "zu-ZA": {
+      "name": "祖鲁语",
+      "english_name": "zu-ZA",
+      "voices_count": 2,
+      "voices": [
+        "zu-ZA-ThandoNeural",
+        "zu-ZA-ThembaNeural"
+      ]
+    }
+  },
+  "language_groups": {
+    "chinese": {
+      "name": "中文",
+      "languages": [
+        "zh-CN",
+        "zh-HK",
+        "zh-TW"
+      ],
+      "total_voices": 39
+    },
+    "english": {
+      "name": "英语",
+      "languages": [
+        "en-AU",
+        "en-CA",
+        "en-GB",
+        "en-HK",
+        "en-IE",
+        "en-IN",
+        "en-KE",
+        "en-NG",
+        "en-NZ",
+        "en-PH",
+        "en-SG",
+        "en-TZ",
+        "en-US",
+        "en-ZA"
+      ],
+      "total_voices": 121
+    },
+    "arabic": {
+      "name": "阿拉伯语",
+      "languages": [
+        "ar-AE",
+        "ar-BH",
+        "ar-DZ",
+        "ar-EG",
+        "ar-IQ",
+        "ar-JO",
+        "ar-KW",
+        "ar-LB",
+        "ar-LY",
+        "ar-MA",
+        "ar-OM",
+        "ar-QA",
+        "ar-SA",
+        "ar-SY",
+        "ar-TN",
+        "ar-YE"
+      ],
+      "total_voices": 32
+    },
+    "spanish": {
+      "name": "西班牙语",
+      "languages": [
+        "es-AR",
+        "es-BO",
+        "es-CL",
+        "es-CO",
+        "es-CR",
+        "es-CU",
+        "es-DO",
+        "es-EC",
+        "es-ES",
+        "es-GQ",
+        "es-GT",
+        "es-HN",
+        "es-MX",
+        "es-NI",
+        "es-PA",
+        "es-PE",
+        "es-PR",
+        "es-PY",
+        "es-SV",
+        "es-US",
+        "es-UY",
+        "es-VE"
+      ],
+      "total_voices": 77
+    },
+    "french": {
+      "name": "法语",
+      "languages": [
+        "fr-BE",
+        "fr-CA",
+        "fr-CH",
+        "fr-FR"
+      ],
+      "total_voices": 25
+    },
+    "german": {
+      "name": "德语",
+      "languages": [
+        "de-AT",
+        "de-CH",
+        "de-DE"
+      ],
+      "total_voices": 21
+    },
+    "portuguese": {
+      "name": "葡萄牙语",
+      "languages": [
+        "pt-BR",
+        "pt-PT"
+      ],
+      "total_voices": 21
+    }
+  },
+  "popular_languages": [
+    "af-ZA",
+    "am-ET",
+    "ar-AE",
+    "ar-BH",
+    "ar-DZ",
+    "ar-EG",
+    "ar-IQ",
+    "ar-JO",
+    "ar-KW",
+    "ar-LB",
+    "ar-LY",
+    "ar-MA",
+    "ar-OM",
+    "ar-QA",
+    "ar-SA",
+    "ar-SY",
+    "ar-TN",
+    "ar-YE",
+    "as-IN",
+    "az-AZ",
+    "bg-BG",
+    "bn-BD",
+    "bn-IN",
+    "bs-BA",
+    "ca-ES",
+    "cs-CZ",
+    "cy-GB",
+    "da-DK",
+    "de-AT",
+    "de-CH",
+    "de-DE",
+    "el-GR",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-HK",
+    "en-IE",
+    "en-IN",
+    "en-KE",
+    "en-NG",
+    "en-NZ",
+    "en-PH",
+    "en-SG",
+    "en-TZ",
+    "en-US",
+    "en-ZA",
+    "es-AR",
+    "es-BO",
+    "es-CL",
+    "es-CO",
+    "es-CR",
+    "es-CU",
+    "es-DO",
+    "es-EC",
+    "es-ES",
+    "es-GQ",
+    "es-GT",
+    "es-HN",
+    "es-MX",
+    "es-NI",
+    "es-PA",
+    "es-PE",
+    "es-PR",
+    "es-PY",
+    "es-SV",
+    "es-US",
+    "es-UY",
+    "es-VE",
+    "et-EE",
+    "eu-ES",
+    "fa-IR",
+    "fi-FI",
+    "fr-BE",
+    "fr-CA",
+    "fr-CH",
+    "fr-FR",
+    "ga-IE",
+    "gl-ES",
+    "gu-IN",
+    "he-IL",
+    "hi-IN",
+    "hr-HR",
+    "hu-HU",
+    "hy-AM",
+    "id-ID",
+    "is-IS",
+    "it-IT",
+    "ja-JP",
+    "jv-ID",
+    "ka-GE",
+    "kk-KZ",
+    "km-KH",
+    "kn-IN",
+    "ko-KR",
+    "lo-LA",
+    "lt-LT",
+    "lv-LV",
+    "mk-MK",
+    "ml-IN",
+    "mn-MN",
+    "mr-IN",
+    "ms-MY",
+    "mt-MT",
+    "my-MM",
+    "nb-NO",
+    "ne-NP",
+    "nl-BE",
+    "nl-NL",
+    "or-IN",
+    "pa-IN",
+    "pl-PL",
+    "ps-AF",
+    "pt-BR",
+    "pt-PT",
+    "ro-RO",
+    "ru-RU",
+    "si-LK",
+    "sk-SK",
+    "sl-SI",
+    "so-SO",
+    "sq-AL",
+    "sr-RS",
+    "su-ID",
+    "sv-SE",
+    "sw-KE",
+    "sw-TZ",
+    "ta-IN",
+    "ta-LK",
+    "ta-MY",
+    "ta-SG",
+    "te-IN",
+    "th-TH",
+    "tr-TR",
+    "uk-UA",
+    "ur-IN",
+    "ur-PK",
+    "uz-UZ",
+    "vi-VN",
+    "zh-CN",
+    "zh-HK",
+    "zh-TW",
+    "zu-ZA"
+  ],
+  "recommended_languages": [
+    "zh-CN",
+    "zh-HK",
+    "zh-TW",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "ja-JP",
+    "ko-KR",
+    "es-ES",
+    "fr-FR",
+    "de-DE",
+    "pt-BR",
+    "ru-RU",
+    "ar-SA"
+  ]
+}

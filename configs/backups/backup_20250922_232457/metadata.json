@@ -1,0 +1,9 @@
+{
+  "backup_id": "backup_20250922_232457",
+  "config_type": "all",
+  "description": "测试备份",
+  "auto_backup": false,
+  "created_at": "2025-09-22T23:24:57.612960",
+  "file_count": 6,
+  "total_size": 6587
+}

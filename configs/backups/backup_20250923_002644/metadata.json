@@ -1,0 +1,9 @@
+{
+  "backup_id": "backup_20250923_002644",
+  "config_type": "test_backup",
+  "description": "all",
+  "auto_backup": false,
+  "created_at": "2025-09-23T00:26:44.743371",
+  "file_count": 0,
+  "total_size": 0
+}

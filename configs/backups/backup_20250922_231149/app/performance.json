@@ -1,0 +1,9 @@
+{
+  "max_concurrent_tasks": 2,
+  "memory_limit_mb": 1024,
+  "enable_hardware_acceleration": false,
+  "enable_caching": true,
+  "cache_duration": 3600,
+  "max_cache_size": 100,
+  "enable_profiling": false
+}

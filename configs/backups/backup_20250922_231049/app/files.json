@@ -1,0 +1,10 @@
+{
+  "input_dir": "./input",
+  "output_dir": "./output",
+  "temp_dir": "./temp",
+  "cache_dir": "./cache",
+  "backup_dir": "./backups",
+  "max_file_size_mb": 100,
+  "auto_clean_temp": true,
+  "auto_clean_interval": 3600
+}

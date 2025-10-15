@@ -1,0 +1,24 @@
+{
+  "name": "IndexTTS API",
+  "description": "基于IndexTTS API的语音合成服务",
+  "version": "1.0.0",
+  "engine_type": "online",
+  "supported_languages": ["zh-CN", "en-US"],
+  "supported_formats": ["wav", "mp3"],
+  "extra_params": {
+    "api_url": "http://127.0.0.1:18000",
+    "timeout": 30,
+    "max_retries": 3,
+    "retry_delay": 1.0,
+    "audio_dir": "resources/audio",
+    "voice_settings": {
+      "default": {
+        "name": "默认语音",
+        "language": "zh-CN",
+        "gender": "unknown",
+        "description": "需要提供参考音频文件",
+        "requires_audio": true
+      }
+    }
+  }
+}

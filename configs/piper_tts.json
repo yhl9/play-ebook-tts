@@ -1,0 +1,21 @@
+{
+  "engine": "piper_tts",
+  "voice_name": "en_GB-alan-medium",
+  "rate": 1.4,
+  "pitch": 0,
+  "volume": 1.0,
+  "language": "en-US",
+  "output_format": "wav",
+  "extra_params": {
+    "voice_name": "zh_CN-huayan-medium",
+    "rate": 1.42,
+    "volume": 1.0,
+    "noise_scale": 1.0,
+    "noise_w_scale": 1.0,
+    "length_scale": 1.0,
+    "normalize_audio": true,
+    "enable_caching": true,
+    "max_cache_size": 10,
+    "streaming_chunk_size": 1024
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Piper TTS",
+  "description": "高质量本地TTS引擎，支持多种语言和语音模型",
+  "version": "1.0.0",
+  "engine_type": "offline",
+  "supported_languages": ["zh-CN", "en-US", "en-GB"],
+  "supported_formats": ["wav", "mp3"],
+  "extra_params": {
+    "models_dir": "models/piper",
+    "use_cuda": false,
+    "noise_scale": 0.667,
+    "length_scale": 1.0,
+    "noise_w": 0.8,
+    "voice_settings": {
+      "zh_CN-huayan-medium": {
+        "name": "华严-中文女声",
+        "language": "zh-CN",
+        "gender": "female",
+        "description": "Piper TTS中文女声模型"
+      },
+      "en_GB-cori-medium": {
+        "name": "cori-英文女声",
+        "language": "en-US",
+        "gender": "female",
+        "description": "Piper TTS英文女声cori模型"
+      },
+      "en_GB-alan-medium": {
+        "name": "Alan-英文男声",
+        "language": "en-GB",
+        "gender": "male",
+        "description": "Piper TTS英文男声alan模型"
+      }
+    }
+  }
+}
